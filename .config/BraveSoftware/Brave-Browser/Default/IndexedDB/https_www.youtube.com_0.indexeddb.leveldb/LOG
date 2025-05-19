@@ -1,0 +1,21 @@
+2025/05/14-17:45:17.782 15f9 Reusing MANIFEST /home/dust/.config/BraveSoftware/Brave-Browser/Default/IndexedDB/https_www.youtube.com_0.indexeddb.leveldb/MANIFEST-000001
+2025/05/14-17:45:17.782 15f9 Recovering log #35
+2025/05/14-17:45:17.782 15f9 Reusing old log /home/dust/.config/BraveSoftware/Brave-Browser/Default/IndexedDB/https_www.youtube.com_0.indexeddb.leveldb/000035.log 
+2025/05/14-18:16:12.997 15f8 Level-0 table #41: started
+2025/05/14-18:16:13.003 15f8 Level-0 table #41: 1155426 bytes OK
+2025/05/14-18:16:13.006 15f8 Delete type=0 #35
+2025/05/14-18:23:08.739 15f8 Compacting 1@1 + 1@2 files
+2025/05/14-18:23:08.744 15f8 Generated table #42@1: 512 keys, 117153 bytes
+2025/05/14-18:23:08.744 15f8 Compacted 1@1 + 1@2 files => 117153 bytes
+2025/05/14-18:23:08.745 15f8 compacted to: files[ 0 0 1 0 0 0 0 ]
+2025/05/14-18:23:08.746 15f8 Delete type=2 #41
+2025/05/14-18:23:08.746 15f8 Delete type=2 #38
+2025/05/14-19:27:06.375 15f8 Level-0 table #44: started
+2025/05/14-19:27:06.380 15f8 Level-0 table #44: 1191472 bytes OK
+2025/05/14-19:27:06.383 15f8 Delete type=0 #40
+2025/05/14-19:28:12.335 15f8 Compacting 1@1 + 1@2 files
+2025/05/14-19:28:12.339 15f8 Generated table #45@1: 546 keys, 111587 bytes
+2025/05/14-19:28:12.340 15f8 Compacted 1@1 + 1@2 files => 111587 bytes
+2025/05/14-19:28:12.342 15f8 compacted to: files[ 0 0 1 0 0 0 0 ]
+2025/05/14-19:28:12.342 15f8 Delete type=2 #44
+2025/05/14-19:28:12.342 15f8 Delete type=2 #42

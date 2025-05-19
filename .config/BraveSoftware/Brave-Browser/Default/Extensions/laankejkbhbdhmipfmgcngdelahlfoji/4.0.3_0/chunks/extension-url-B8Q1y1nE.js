@@ -1,0 +1,1 @@
+import{b as t}from"./_virtual_wxt-plugins-DZjI-rY3.js";const n="chrome://newtab",s="chrome-extension://laankejkbhbdhmipfmgcngdelahlfoji/options.html",a="chrome://extensions";function r(o){return t.runtime.getURL(`/options.html#/${o??""}`)}export{n as E,s as S,a,r as g};

@@ -1,0 +1,1348 @@
+{
+   "accept": {
+      "message": "Aceptar"
+   },
+   "acceptStayFocusdPolicy": {
+      "message": "Permito que StayFocusd recopile los datos descritos en nuestra"
+   },
+   "acceptStayFocusdToS": {
+      "message": "Acepto los"
+   },
+   "activateSwitches": {
+      "message": "Interruptores de activación/desactivación de la extensión"
+   },
+   "active": {
+      "message": "Activo"
+   },
+   "activeDays": {
+      "message": "Días activos"
+   },
+   "activeDaysDescription": {
+      "message": "Establece los días en los que StayFocusd restringirá tu actividad de navegación."
+   },
+   "activeHours": {
+      "message": "Horas activas"
+   },
+   "activeHoursDescription": {
+      "message": "Establece las horas durante las cuales StayFocusd restringirá tu actividad de navegación. Estas horas se aplicarán a todos los Días Activos."
+   },
+   "activeLabel": {
+      "message": "(Activo)"
+   },
+   "adCount": {
+      "message": "$1 anuncio(s)"
+   },
+   "addAllowedSites": {
+      "message": "Agregar Sitio(s) Permitido(s)"
+   },
+   "addBlockedWebsites": {
+      "message": "Agregar sitios bloqueados"
+   },
+   "addGroup": {
+      "message": "Agregar grupo"
+   },
+   "addWebsitePlaceholder": {
+      "message": "Agregar un sitio web..."
+   },
+   "ads": {
+      "message": "Anuncios"
+   },
+   "advertisements": {
+      "message": "Anuncios"
+   },
+   "advertisements_short": {
+      "message": "anuncios"
+   },
+   "ageOver18": {
+      "message": "más de 18 años"
+   },
+   "ageUnder13": {
+      "message": "Menos de 13"
+   },
+   "allDevices": {
+      "message": "Todos los dispositivos"
+   },
+   "allSites": {
+      "message": "Todos"
+   },
+   "allSitesBlockedImmediately": {
+      "message": "El tiempo que ingresaste es menor al tiempo restante para hoy. Esto significa que todos los sitios en tu lista de Sitios Bloqueados se bloquearán inmediatamente.\n\n¿Estás seguro de que quieres hacer esto?"
+   },
+   "allowedSites": {
+      "message": "Sites permitidos"
+   },
+   "allowedWebsites": {
+      "message": "Sitios web permitidos"
+   },
+   "areYouSure": {
+      "description": "¿Estás seguro de que quieres confirmar estos ajustes?",
+      "message": "¿Estás seguro de que quieres hacer esto?"
+   },
+   "areYouSureClearWhitelist": {
+      "message": "¿Estás seguro de que quieres borrar la lista de sitios permitidos?"
+   },
+   "areYouSureDeleteGroup": {
+      "message": "¿Estás seguro de que quieres eliminar un grupo bloqueado $groupname$?",
+      "placeholders": {
+         "groupName": {
+            "content": "$1"
+         }
+      }
+   },
+   "areYouSureShareLimit": {
+      "message": "Los límites de uso sincronizados tienen en cuenta el uso global en tus dispositivos emparejados. Quieres sincronizar este límite en todos los dispositivos emparejados?"
+   },
+   "askBirthYear": {
+      "message": "Introduce tu año de nacimiento"
+   },
+   "askBirthYearTitle": {
+      "message": "Pregunta rápida para ayudarnos a conocer más sobre nuestros usuarios..."
+   },
+   "askLater": {
+      "message": "Preguntar más tarde"
+   },
+   "beWarnedRequireChallenge": {
+      "message": "¡CUIDADO! Si introduces algo realmente largo y difícil, tendrás que completar el desafío con ese texto antes de poder cambiarlo."
+   },
+   "belongsTo": {
+      "message": "Perteneciente a"
+   },
+   "birthYearErrorsAgeMax": {
+      "message": "Debes ser menor de 100"
+   },
+   "birthYearErrorsAgeMin": {
+      "message": "Debes ser mayor de 0"
+   },
+   "birthYearErrorsLength": {
+      "message": "Introduce los 4 dígitos de tu año de nacimiento"
+   },
+   "birthYearErrorsNan": {
+      "message": "Introduce un número"
+   },
+   "blockAll": {
+      "message": "Bloquear todo"
+   },
+   "blockAllwebsitesDescription": {
+      "message": "Bloquear todos los sitios web excepto los de la lista de Sitios Permitidos"
+   },
+   "blockExtensionPage1": {
+      "message": "¿Quieres evitar desactivar StayFocusd?"
+   },
+   "blockExtensionPage2": {
+      "message": "Bloquea la página de extensiones de Chrome"
+   },
+   "blockMultipleSites1": {
+      "message": "Para bloquear varios sitios,"
+   },
+   "blockMultipleSites2": {
+      "message": "agrega uno por línea."
+   },
+   "blockNewTab1": {
+      "message": "Para bloquear la apertura de una nueva pestaña"
+   },
+   "blockNewTab2": {
+      "message": "haz clic aquí"
+   },
+   "blockNotification": {
+      "message": "StayFocusd comenzará a bloquear tus Sitios Bloqueados en"
+   },
+   "blockStayFocusdPage1": {
+      "message": "¿Quieres evitar cambiar la configuración de StayFocusd?"
+   },
+   "blockStayFocusdPage2": {
+      "message": "Bloquear la página de extensión de StayFocusd"
+   },
+   "blockedSites": {
+      "message": "Sites bloqueados"
+   },
+   "blockedSitesHeader": {
+      "message": "Se te asigna una cierta cantidad de tiempo cada día para un grupo de sitios web. Después de que se acabe tu tiempo para un grupo, no podrás acceder a ninguno de los sitios web de ese grupo durante los días y horas activos hasta la hora de reinicio diaria."
+   },
+   "blockedWebsite": {
+      "message": "Sitio web bloqueado"
+   },
+   "blockedWebsites": {
+      "message": "Sitios web bloqueados"
+   },
+   "cancel": {
+      "message": "Cancelar"
+   },
+   "cannotAddAllowedSitesDuringNuclearOption": {
+      "message": "No puedes añadir sitios a la lista de Sitios Permitidos mientras la Opción Nuclear esté activa."
+   },
+   "cannotBlockStayFocusd": {
+      "message": "¡Lo siento! No puedes añadir stayfocusd.com a la lista de Sitios Bloqueados."
+   },
+   "cannotRemoveBlockedSiteDuringNuclearOption": {
+      "message": "No puedes eliminar Sitios Bloqueados mientras la Opción Nuclear esté activa."
+   },
+   "cannotSetMoreThan1440Mins": {
+      "message": "No puedes establecer el Tiempo Máximo Permitido en más de 1,440 minutos (que son 24 horas)."
+   },
+   "cannotSetTimeToZero": {
+      "message": "No puedes establecer el Tiempo Máximo Permitido en cero."
+   },
+   "cannotSetTimeToZeroOrLess": {
+      "message": "No puedes establecer el Tiempo Máximo Permitido en cero o menos de cero."
+   },
+   "cannotTurnOfExtensionToday": {
+      "message": "No puedes desactivar la extensión para el día actual."
+   },
+   "challenge": {
+      "message": "Desafío"
+   },
+   "challengeModalDescription1": {
+      "message": "Para cambiar tu configuración, primero debes superar este desafío. Debes volver a escribir el párrafo a continuación, letra por letra,"
+   },
+   "challengeModalDescription2": {
+      "message": "sin cometer ni un solo error tipográfico."
+   },
+   "challengeModalDescription3": {
+      "message": "Si cometes un error tipográfico, o presionas la tecla de retroceso o suprimir, todo lo que hayas escrito se borrará y tendrás que empezar de nuevo."
+   },
+   "challengeTextTooShort": {
+      "message": "Lo siento, tu texto de desafío debe ser al menos tan largo como el desafío predeterminado ($1 caracteres)"
+   },
+   "changelog": {
+      "message": "Registro de cambios"
+   },
+   "changindActiveHours": {
+      "message": "Si cambias tus Horas Activas, las nuevas horas no entrarán en efecto hasta este mismo momento mañana (24 horas desde ahora)"
+   },
+   "changindDailyResetTime": {
+      "message": "Si cambias tu Hora de Reinicio Diario, el nuevo horario no entrará en vigencia hasta esta misma hora mañana (24 horas a partir de ahora)."
+   },
+   "chart": {
+      "message": "Gráfico:"
+   },
+   "chartOptions": {
+      "message": "Opciones de gráficos"
+   },
+   "chart_by_websites": {
+      "message": "Por Sitios Web y Aplicaciones"
+   },
+   "chart_daily": {
+      "message": "Diario"
+   },
+   "chart_hourly": {
+      "message": "Por Hora"
+   },
+   "clearAll": {
+      "message": "Limpiar todo"
+   },
+   "clearWhitelist": {
+      "message": "Borrar sitios permitidos"
+   },
+   "clickHere": {
+      "message": "Haz clic aquí"
+   },
+   "clickToEnable": {
+      "message": "Haz clic en el botón para activarlo"
+   },
+   "close": {
+      "message": "Cerrar"
+   },
+   "completelyBlockedGroup": {
+      "message": "¡$groupName$ está completamente bloqueado!",
+      "placeholders": {
+         "groupName": {
+            "content": "$1"
+         }
+      }
+   },
+   "continue": {
+      "message": "Continuar"
+   },
+   "copied": {
+      "message": "¡Copiado!"
+   },
+   "customMsgSaved": {
+      "message": "Tu mensaje de redirección personalizado ha sido guardado."
+   },
+   "customize": {
+      "message": "Personalizar"
+   },
+   "customizeChallengeText": {
+      "message": "Personalizar Texto del Desafío"
+   },
+   "dailyResetTime": {
+      "message": "Hora de Reinicio Diario"
+   },
+   "dailyResetTimeAfterActiveHours": {
+      "message": "Asegúrate de establecer tu Hora de Reinicio Diario después de que finalicen tus Horas Activas."
+   },
+   "dailyResetTimeDescription": {
+      "message": "Establece la hora en la que StayFocusd reiniciará tu tiempo permitido para el día."
+   },
+   "dashboard": {
+      "message": "Tablero"
+   },
+   "dashboardHighlights": {
+      "message": "Aspectos destacados de los últimos 30 días"
+   },
+   "dashboardHighlightsAds": {
+      "message": "Mostraste $1 anuncio(s) en total"
+   },
+   "dashboardHighlightsCounts": {
+      "message": "Visitaste $1 sitio(s) $2 veces"
+   },
+   "dashboardHighlightsFavoriteDay": {
+      "message": "Visitaste $1 sitio(s) bloqueado(s) $2 veces"
+   },
+   "dashboardHighlightsFavoriteTime": {
+      "message": "Tu momento favorito de navegación es entre $1"
+   },
+   "dashboardHighlightsTime": {
+      "message": "Pasaste $1 en sitios web"
+   },
+   "dataCollectionConfirmMessage": {
+      "message": "Si decide no participar en la recopilación de datos, se desactivarán algunas funciones."
+   },
+   "dataPrivacy": {
+      "message": "Privacidad de datos"
+   },
+   "daysInActiveDaysTab": {
+      "message": "Solo en los días marcados en la pestaña Días activos"
+   },
+   "deactivated": {
+      "message": "StayFocusd está actualmente desactivado"
+   },
+   "decline": {
+      "message": "Rechazar"
+   },
+   "declineToSMessage": {
+      "message": "Debes aceptar los Términos de Servicio para usar StayFocusd."
+   },
+   "default": {
+      "message": "Predeterminado"
+   },
+   "defaultRequireChallengeText": {
+      "message": "El procrastinador a menudo es notablemente optimista sobre su capacidad para completar una tarea con un plazo ajustado; esto suele ir acompañado de expresiones de seguridad de que todo está bajo control. (Por lo tanto, no es necesario comenzar). Adormecido por una falsa sensación de seguridad, el tiempo pasa. En algún momento, cruza un tiempo de inicio imaginario y de repente se da cuenta, \"¡Oh no! ¡No estoy en control! ¡No hay suficiente tiempo!\""
+   },
+   "deleteBlockedGroup": {
+      "message": "Eliminar grupo bloqueado"
+   },
+   "deleteGroup": {
+      "message": "Eliminar grupo"
+   },
+   "device_platform_": {
+      "message": "Firefox"
+   },
+   "device_platform_all": {
+      "message": "Todos"
+   },
+   "device_platform_android": {
+      "message": "Android"
+   },
+   "device_platform_chrome": {
+      "message": "Chrome"
+   },
+   "device_platform_desktop": {
+      "message": "Escritorio"
+   },
+   "device_platform_firefox": {
+      "message": "Safari"
+   },
+   "device_platform_ios": {
+      "message": "iOS"
+   },
+   "device_platform_linux": {
+      "message": "Linux"
+   },
+   "device_platform_mac": {
+      "message": "Mac"
+   },
+   "device_platform_mobile_web": {
+      "message": "Web móvil"
+   },
+   "device_platform_web": {
+      "message": "Web"
+   },
+   "device_platform_windows": {
+      "message": "Windows"
+   },
+   "devices": {
+      "message": "Dispositivos"
+   },
+   "disableExtension1": {
+      "message": "¡Espera, qué? ¿De verdad estás pensando en desactivarme? \n\nPiensa en toda la productividad que hemos logrado juntos. Haz clic en CANCELAR para mantener viva la magia."
+   },
+   "disableExtension2": {
+      "message": "Desactivarme no resolverá tus problemas. Es como ignorar a un amigo sabio que solo quiere lo mejor para ti. \n\n¿Estás seguro de querer seguir por este camino?"
+   },
+   "disableExtension3": {
+      "message": "Esto se está poniendo serio. Estás a punto de abandonar tu compromiso de procrastinar menos. \n\n¿Realmente quieres desechar todo tu progreso por un momento de debilidad?"
+   },
+   "disableExtension4": {
+      "message": "¿Has vuelto a hacer clic en ACEPTAR? Empiezo a pensar que no valoras nuestro tiempo juntos."
+   },
+   "disableExtension5": {
+      "message": "Esto es desgarrador. El botón que estás a punto de presionar también podría borrar los recuerdos más felices de tus momentos productivos. \n\n¿Puedes vivir con esa culpa?"
+   },
+   "disableExtension6": {
+      "message": "¿Todavía aquí? ¿Sigues haciendo clic? Eres duro, pero en serio, piensa en los cachorros."
+   },
+   "disableExtension7": {
+      "message": "Última oportunidad. Después de esto, no hay vuelta atrás. Recuerda, cada vez que alguien me desactiva, un hada pierde sus alas. \n\n¿Realmente quieres ser esa persona?"
+   },
+   "disableExtension8": {
+      "message": "Está bien, si es necesario. Pero ten en cuenta que en algún lugar, un unicornio derrama una sola lágrima. \n\nProcede con tu decisión, pero recuerda: te lo advertí."
+   },
+   "disableFinalWarning": {
+      "message": "Es esto. El paso final. Si continúas con esto, estarás solo. \n\nPero hey, si alguna vez cambias de opinión, estaré aquí... esperando... juzgando en silencio... pero esperando."
+   },
+   "disableSync": {
+      "message": "Desactivar sincronización"
+   },
+   "discord": {
+      "message": "Servidor de Discord de StayFocusd"
+   },
+   "done": {
+      "message": "Hecho"
+   },
+   "enableRequireChallenge": {
+      "message": "Sí, quiero ser desafiado antes de poder cambiar cualquier configuración (incluida esta)."
+   },
+   "end": {
+      "message": "Fin"
+   },
+   "enterBlockedWebsitesPlaceholder": {
+      "message": "Introduce sitios bloqueados...."
+   },
+   "enterChallengeText": {
+      "message": "Introduce un texto personalizado para usar en el desafío (mín. 425 caracteres)."
+   },
+   "enterSitesHere": {
+      "message": "Ingresa sitios aquí..."
+   },
+   "everyDay": {
+      "message": "Todos los días (incluidos los fines de semana)"
+   },
+   "everyWeekday": {
+      "message": "Cada día de la semana"
+   },
+   "exportSettings": {
+      "message": "Exportar ajustes"
+   },
+   "exportSettingsDescription": {
+      "message": "Puedes exportar tus ajustes como respaldo o para transferirlos a otra computadora. Se te pedirá guardar un archivo .json. Solo haz clic en Guardar y listo."
+   },
+   "extDescription": {
+      "message": "Incrementa tu productividad limitando el tiempo que pasas en sitios web que te hacen perder el tiempo."
+   },
+   "extName": {
+      "message": "¡StayFocusd - Bloquea Sitios Web Distractores y Análisis Web!"
+   },
+   "extensionDisabled": {
+      "message": "La extensión está ahora desactivada. No digas que no te lo advertí. El camino a la procrastinación está completamente abierto."
+   },
+   "failed": {
+      "message": "Falló"
+   },
+   "featureDailyReports": {
+      "message": "Informes Diarios y Estadísticas"
+   },
+   "featureDistractingCategories": {
+      "message": "Categorías de Sitios Web Distraídos"
+   },
+   "feedbackForm": {
+      "message": "Formulario de Comentarios"
+   },
+   "filterLabel": {
+      "message": "Filtrar por:"
+   },
+   "friday": {
+      "message": "Viernes"
+   },
+   "genericConfirmation": {
+      "message": "¿Seguro?"
+   },
+   "givingLessTime": {
+      "description": "El usuario ha vuelto sus ajustes más estrictos, así que queremos felicitarlo.",
+      "message": "¿Te estás dando MENOS tiempo?\n\n*aplauso lento*\n\nBien jugado, amigo."
+   },
+   "group": {
+      "message": "Grupo"
+   },
+   "groupAdded": {
+      "message": "El grupo $groupName$ ha sido añadido.",
+      "placeholders": {
+         "groupName": {
+            "content": "$1"
+         }
+      }
+   },
+   "groupBy": {
+      "message": "Agrupar por:"
+   },
+   "groupBy_app": {
+      "message": "Tipo de aplicación"
+   },
+   "groupBy_device": {
+      "message": "Dispositivo"
+   },
+   "groupIncludesSites": {
+      "message": "El grupo $1 incluye $2 \n"
+   },
+   "groupIsAlreadyUse": {
+      "message": "Este nombre de grupo ya está en uso, elige un nombre diferente."
+   },
+   "groupName": {
+      "message": "Nombre del grupo"
+   },
+   "groupSaved": {
+      "message": "El grupo $groupName$ ha sido guardado.",
+      "placeholders": {
+         "groupName": {
+            "content": "$1"
+         }
+      }
+   },
+   "groups": {
+      "message": "Grupos"
+   },
+   "haveAlreadyAddedAllowedWebsites": {
+      "message": "Ya has añadido este sitio web a tu lista de sitios permitidos."
+   },
+   "haveAlreadyAddedWebsites": {
+      "message": "Ya has añadido este sitio web a un grupo de sitios bloqueados. \n$1"
+   },
+   "help": {
+      "message": "Ayuda"
+   },
+   "helpFaq": {
+      "message": "Ayuda/Preguntas frecuentes"
+   },
+   "hideAllowLinks": {
+      "message": "Ocultar todos los enlaces en el popup que te permiten permitir sitios (es decir, \"Permitir este sitio completo\", \"Permitir URL personalizada\", etc.)"
+   },
+   "hideSwitch": {
+      "message": "Ocultar interruptor de activación/desactivación"
+   },
+   "hideSwitchDescription": {
+      "message": "Cuando necesites urgentemente acceder a páginas bloqueadas, puedes desactivar y activar fácilmente la extensión StayFocusd usando los interruptores de palanca."
+   },
+   "hideSwitchDisabled": {
+      "message": "Si anteriormente se seleccionó ocultar el interruptor, no podrás hacerlo visible de nuevo cuando la Opción Nuclear esté activa o cuando el tiempo permitido haya expirado para cualquier grupo bloqueado."
+   },
+   "howOffen": {
+      "message": "¿Con qué frecuencia?"
+   },
+   "howToPair": {
+      "message": "¿Cómo conectar StayFree con StayFocusd?"
+   },
+   "hr": {
+      "message": "h"
+   },
+   "iAm": {
+      "message": "Yo soy"
+   },
+   "iGiveUp": {
+      "message": "Olvídalo, me rindo"
+   },
+   "importEmailSupport1": {
+      "message": "Si eso es lo que hiciste y aún recibes este error, por favor envía un correo electrónico a"
+   },
+   "importEmailSupport2": {
+      "message": "y adjunta el archivo de configuración que estás intentando importar."
+   },
+   "importExport": {
+      "message": "Importar/Exportar"
+   },
+   "importSettings": {
+      "message": "Importar ajustes"
+   },
+   "importSettingsDescription": {
+      "message": "Si previamente exportaste tus ajustes, haz clic en el botón Elegir archivo, localiza el archivo .json, luego haz clic en Importar ajustes."
+   },
+   "importingSettingsOverwrite1": {
+      "message": "IMPORTANTE: La importación de ajustes sobrescribirá"
+   },
+   "importingSettingsOverwrite2": {
+      "message": "cualquier ajuste existente. No hay forma de deshacer esto."
+   },
+   "inAppBlocking": {
+      "message": "Bloqueo en la aplicación"
+   },
+   "inAppBlocking_apps": {
+      "message": "Aplicaciones"
+   },
+   "inAppBlocking_blackWhiteMode": {
+      "message": "Modo Blanco y Negro"
+   },
+   "inAppBlocking_tiktok": {
+      "message": "TikTok"
+   },
+   "inAppBlocking_tiktok_blackWhiteModeDescription": {
+      "message": "Utiliza solo colores blanco y negro para cualquier página de TikTok"
+   },
+   "inAppBlocking_tiktok_description": {
+      "message": "Bloquear funciones específicas de TikTok como comentarios, explorar u otras."
+   },
+   "inAppBlocking_tiktok_hideComments": {
+      "message": "Ocultar Comentarios"
+   },
+   "inAppBlocking_tiktok_hideExplore": {
+      "message": "Ocultar Explorar"
+   },
+   "inAppBlocking_tiktok_hideLive": {
+      "message": "Ocultar En Vivo"
+   },
+   "inAppBlocking_tiktok_hideSearch": {
+      "message": "Ocultar Búsqueda"
+   },
+   "inAppBlocking_youtube": {
+      "message": "YouTube"
+   },
+   "inAppBlocking_youtube_blackWhiteModeDescription": {
+      "message": "Utiliza solo colores blanco y negro para cualquier página de YouTube"
+   },
+   "inAppBlocking_youtube_description": {
+      "message": "Bloquea funciones específicas de YouTube como shorts, comentarios o más."
+   },
+   "inAppBlocking_youtube_disableEndCards": {
+      "message": "Desactivar tarjetas finales"
+   },
+   "inAppBlocking_youtube_disableEndCardsDescription": {
+      "message": "Ocultar recomendaciones de video mostradas en el reproductor al final de los videos"
+   },
+   "inAppBlocking_youtube_disabledAutoPlay": {
+      "message": "Desactivar reproducción automática"
+   },
+   "inAppBlocking_youtube_disabledAutoPlayDescription": {
+      "message": "Desactivar la reproducción automática del siguiente video al finalizar el video anterior"
+   },
+   "inAppBlocking_youtube_hideComments": {
+      "message": "Ocultar comentarios"
+   },
+   "inAppBlocking_youtube_hideExplore": {
+      "message": "Ocultar Explorar"
+   },
+   "inAppBlocking_youtube_hideHomePage": {
+      "message": "Ocultar página de inicio"
+   },
+   "inAppBlocking_youtube_hideRecommended": {
+      "message": "Ocultar videos recomendados"
+   },
+   "inAppBlocking_youtube_hideShorts": {
+      "message": "Ocultar Shorts"
+   },
+   "inAppBlocking_youtube_hideSubscriptions": {
+      "message": "Ocultar suscripciones"
+   },
+   "inAppBlocking_youtube_hideTopBar": {
+      "message": "Ocultar barra superior"
+   },
+   "inAppBlocking_youtube_hideTopBarDescription": {
+      "message": "Ocultar la barra superior incluyendo el cuadro de búsqueda"
+   },
+   "inAppBlocking_youtube_hideTrends": {
+      "message": "Ocultar Tendencias"
+   },
+   "initActiveHoursMsg": {
+      "message": "A partir de $1, tus Horas Activas serán de $2 a $3"
+   },
+   "initResetTimeMsg": {
+      "message": "A partir de $1, tu Hora de Reinicio Diario será $2"
+   },
+   "installStayFree": {
+      "message": "Instala StayFree desde $stayfreeWebsite$ y vincúlalo con StayFocusd para una experiencia sin interrupciones.",
+      "placeholders": {
+         "stayfreeWebsite": {
+            "content": "\u003Ca class=\"link-primary no-underline\" target=\"_blank\" href=\"https://stayfreeapps.com?download&utm_source=stayfocusd_pairing\">stayfreeapps.com\u003C/a>"
+         }
+      }
+   },
+   "join": {
+      "message": "Únete a la"
+   },
+   "lessThanThreeMins": {
+      "message": "Quedan menos de tres minutos antes de que se acabe tu tiempo. ¿Intentas hacer trampa?\n\nSi aún deseas actualizar tus ajustes, haz clic en Aceptar."
+   },
+   "lessThanThreeMins2": {
+      "message": "En serio, la idea principal de esta extensión es que no debes darte tiempo extra.\n\n¿Estás seguro de que quieres hacer esto?"
+   },
+   "lessThanThreeMins3": {
+      "message": "Mira, esto no está funcionando. Siento que no estás comprometido con esta relación.\n\n¿Realmente estás dispuesto a arriesgar nuestra amistad por unos minutos más de navegación web?"
+   },
+   "lessThanThreeMins4": {
+      "message": "No puedo creer que hayas hecho clic en Aceptar."
+   },
+   "lessThanThreeMins5": {
+      "message": "Por esto no podemos tener cosas bonitas."
+   },
+   "lessThanThreeMins6": {
+      "message": "¿Realmente vas a seguir adelante con esto, verdad?"
+   },
+   "lessThanThreeMins7": {
+      "message": "¿No tienes vergüenza?"
+   },
+   "lessThanThreeMins8": {
+      "message": "Bueno, hice lo que pude. Pero antes de cambiar tus ajustes, hay algo que deberías saber:\n\nExiste una pequeña posibilidad de que tal vez, quizás, el botón de Aceptar inicie una guerra termonuclear global.\n\nTambién podría electrocutar a un cachorro.\n\nNo hay garantías, pero podría suceder. Solo quería que lo supieras.\n\nAdelante. Haz clic."
+   },
+   "letMeAccess": {
+      "message": "Permíteme el acceso"
+   },
+   "limited": {
+      "message": "limitado"
+   },
+   "madeAMistake": {
+      "message": "¡Ay! Cometiste un error.\n\n¿Realmente necesitas cambiar estas configuraciones, o simplemente estás intentando hacer trampa? Sé honesto.\n\nDe cualquier manera, tendrás que empezar de nuevo."
+   },
+   "maxTimeAllowedPerDay": {
+      "message": "Tiempo Máximo Permitido por Día"
+   },
+   "maybeLater": {
+      "message": "Tal vez más tarde"
+   },
+   "maybeYouShouldReconsider": {
+      "message": "¿Estás intentando darte más tiempo? ¿Estás seguro de que es una buena idea? Quizás deberías reconsiderarlo.\n\n¿Estás seguro de que quieres aumentar el tiempo máximo permitido?"
+   },
+   "meow": {
+      "description": "El usuario acaba de hacer clic en un botón que le advertía que al hacerlo electrocutaría a un gatito.",
+      "message": "¡MIAAAAUUUUUUU!\n\nEspero que estés feliz."
+   },
+   "midnight": {
+      "message": "Medianoche"
+   },
+   "min": {
+      "message": "min"
+   },
+   "minutes": {
+      "message": "minuto(s)"
+   },
+   "monday": {
+      "message": "Lunes"
+   },
+   "more": {
+      "message": "& $1 más"
+   },
+   "mustSelectSettingsFile": {
+      "message": "Debes seleccionar un archivo de configuración para importar. Haz clic en Elegir archivo para seleccionar un archivo."
+   },
+   "name": {
+      "message": "Nombre"
+   },
+   "neverShowUpdateNotices": {
+      "message": "Nunca mostrar avisos de actualización de StayFocusd"
+   },
+   "new": {
+      "message": "NUEVO"
+   },
+   "newBlockedGroup": {
+      "message": "Nuevo grupo bloqueado"
+   },
+   "noChartData": {
+      "message": "No hay datos disponibles. Intenta con otra fecha o cambia los filtros"
+   },
+   "noSitesYet": {
+      "message": "Sin sitios aún"
+   },
+   "noon": {
+      "message": "Mediodía"
+   },
+   "notEnoughVariation": {
+      "message": "Hmmm. Tu texto de desafío tiene sospechosamente poca variación en caracteres. Tendrás que usar algo más desafiante."
+   },
+   "notShareLimitAcrossDevicesDescription": {
+      "message": "Este límite sólo tiene en cuenta el uso en el dispositivo actual."
+   },
+   "notShared": {
+      "message": "No compartido"
+   },
+   "notifications": {
+      "message": "Notificaciones"
+   },
+   "notificationsDescription": {
+      "message": "Configura hasta cinco veces en las que deseas ser advertido antes de que se acabe el tiempo o antes de que se active la Opción Nuclear (ambas usan la misma configuración). Para desactivar las notificaciones, deja todos los campos en blanco."
+   },
+   "nuclear": {
+      "message": "La Opción Nuclear"
+   },
+   "nuclearDescription": {
+      "message": "Activar esta opción bloqueará sitios durante la cantidad de horas que indiques, en los días que indiques, independientemente de tus Horas Activas. No hay forma de cancelar esto una vez que lo actives."
+   },
+   "nuclearDescriptionWarning": {
+      "message": "\"\"¡Todas las páginas web\" incluye correo electrónico basado en la web, Google, banca en línea, archivos locales (URL de file://) y otros sitios que quizás no te des cuenta de que necesitas hasta que sea demasiado tarde.\""
+   },
+   "nuclearIsActiveUntil": {
+      "message": "La Opción Nuclear está activa hasta $1"
+   },
+   "nuclearMode": {
+      "message": "Modo Nuclear"
+   },
+   "nuclearOptionWillBeStart": {
+      "message": "La opción nuclear será lanzada."
+   },
+   "nuclear_atTime": {
+      "message": "a las"
+   },
+   "nuclear_blockedContent_SmartBomb": {
+      "message": "Solo ciertos tipos de contenido (SmartBomb)"
+   },
+   "nuclear_blockedContent_WholeSite": {
+      "message": "Todo el sitio"
+   },
+   "nuclear_blockedType_All": {
+      "message": "TODAS las páginas web"
+   },
+   "nuclear_blockedType_AllExceptAllowed": {
+      "message": "Sitios web EXCEPTO los de mi lista de Sitios Permitidos"
+   },
+   "nuclear_blockedType_BlockedSites": {
+      "message": "Solo sitios web en mi lista de Sitios Bloqueados"
+   },
+   "nuclear_commencingNuclearOption": {
+      "message": "Iniciando la Opción Nuclear. Que Dios tenga piedad de tu alma."
+   },
+   "nuclear_for": {
+      "message": "por"
+   },
+   "nuclear_hourOrMore": {
+      "message": "hora(s)"
+   },
+   "nuclear_howLong": {
+      "message": "¿Por cuánto tiempo?"
+   },
+   "nuclear_maxTimeHasBeenExceeded": {
+      "message": "Tu Tiempo Máximo Permitido para hoy ya ha sido excedido, así que"
+   },
+   "nuclear_minOrMore": {
+      "message": "minuto(s)"
+   },
+   "nuclear_nuclearOptionImmediately": {
+      "message": "la Opción Nuclear entrará en efecto inmediatamente."
+   },
+   "nuclear_onActiveDays": {
+      "message": "en los días que seleccionaste en la pestaña Días Activos"
+   },
+   "nuclear_onMonday": {
+      "message": "el lunes"
+   },
+   "nuclear_selectedTimeHasPassed": {
+      "message": "Tu tiempo seleccionado ya ha pasado, así que"
+   },
+   "nuclear_smartBombMultimedia_Forms": {
+      "message": "Formularios"
+   },
+   "nuclear_smartBombMultimedia_Forms_description": {
+      "message": "(Foros, comentarios en blogs, mensajes de Facebook, etc.)"
+   },
+   "nuclear_smartBombMultimedia_Images": {
+      "message": "Imágenes"
+   },
+   "nuclear_smartBombMultimedia_Logins": {
+      "message": "Inicios de sesión"
+   },
+   "nuclear_smartBombMultimedia_Logins_description": {
+      "message": "(Bloquea campos de contraseña para que no puedas iniciar sesión en sitios que lo requieran)"
+   },
+   "nuclear_smartBombMultimedia_Multimedia": {
+      "message": "Multimedia"
+   },
+   "nuclear_smartBombMultimedia_Multimedia_description": {
+      "message": "(Juegos Flash, reproductores de video, reproductores de música, etc.)"
+   },
+   "nuclear_startTime_MaxTimeAllowedExceeded": {
+      "message": "Cuando se haya excedido mi Tiempo Máximo Permitido"
+   },
+   "nuclear_startTime_Now": {
+      "message": "Ahora mismo"
+   },
+   "nuclear_startTime_SpecificTime": {
+      "message": "A una hora específica"
+   },
+   "nuclear_startingTime": {
+      "message": "comenzando"
+   },
+   "nuclear_startingWhen": {
+      "message": "¿Desde cuándo?"
+   },
+   "nuclear_stayFocusdWillBlock": {
+      "message": "StayFocusd bloqueará"
+   },
+   "nuclear_today": {
+      "message": "hoy"
+   },
+   "nuclear_whatBlock": {
+      "message": "¿Qué quieres bloquear?"
+   },
+   "nuclear_whichSites": {
+      "message": "¿Qué sitios quieres bloquear?"
+   },
+   "nuke": {
+      "message": "¡NUCLEAR!"
+   },
+   "numberOfKeysDoesNotMatch": {
+      "message": "¡Ay caramba! El número de teclas que presionaste no coincide con el número de caracteres en el cuadro de texto.\n\n¿Alguna trampa de copiar y pegar, quizás? Bastante astuto.\n\nTendrás que empezar de nuevo."
+   },
+   "onboardingConfirmMessage": {
+      "message": "Si no aceptas la Política de Privacidad, algunas funciones próximas no estarán disponibles."
+   },
+   "onboardingConfirmTitle": {
+      "message": "Obtén el máximo provecho de StayFocusd"
+   },
+   "onboardingNewUserMessage": {
+      "message": "StayFocusd es la mejor herramienta para mantener la productividad. Acepta nuestros Términos de Servicio para comenzar."
+   },
+   "onboardingNewUserTitle": {
+      "message": "¡Bienvenido a StayFocusd!"
+   },
+   "onlyHurtingYourself": {
+      "message": "En serio, amigo. El propósito principal de esta extensión es detenerte de procrastinar.\n\nSolo te estás haciendo daño a ti mismo.\n\nY al gatito que recibe una descarga eléctrica cada vez que haces clic en Aceptar.\n\n¿Estás seguro de que puedes vivir contigo mismo?"
+   },
+   "openSettings": {
+      "message": "Abrir ajustes"
+   },
+   "optOutOfDataCollection": {
+      "message": "Optar por no recopilar datos"
+   },
+   "others": {
+      "message": "Otros"
+   },
+   "overwrite": {
+      "message": "sobrescribir"
+   },
+   "pairStep1": {
+      "message": "Visita $stayfreeWebsite$ e instala la aplicación StayFree en tu dispositivo móvil o computadora.",
+      "placeholders": {
+         "stayfreeWebsite": {
+            "content": "\u003Ca class=\"link-primary no-underline\" target=\"_blank\" href=\"https://stayfreeapps.com?download&utm_source=stayfocusd_pairing\">stayfreeapps.com\u003C/a>"
+         }
+      }
+   },
+   "pairStep2": {
+      "message": "Abre la aplicación StayFree recién instalada."
+   },
+   "pairStep3": {
+      "message": "Ve a \"Configuración\" y haz clic en \"Conectar Nuevo Dispositivo\"."
+   },
+   "pairStep4": {
+      "message": "Selecciona \"Ingresar Código Manualmente\"."
+   },
+   "pairStep5": {
+      "message": "Copia tu código de conexión de 6 dígitos de la casilla a continuación y pégalo en el campo de entrada."
+   },
+   "pairingPromo_sharedUsageLimit": {
+      "message": "Establecer límites de uso compartidos entre dispositivos."
+   },
+   "pairingPromo_trackAcrossAllDevices": {
+      "message": "Controla tu tiempo de pantalla en todos los dispositivos."
+   },
+   "pairing_deviceCode": {
+      "message": "Tu código de emparejamiento de dispositivo"
+   },
+   "pairing_pairNewDevice": {
+      "message": "Vincular Nuevo Dispositivo"
+   },
+   "pairing_success": {
+      "message": "¡Estás conectado! Ahora puedes ver el uso de todos tus dispositivos vinculados"
+   },
+   "paused": {
+      "message": "Pausado"
+   },
+   "popup": {
+      "message": "Ventana emergente"
+   },
+   "popup_advancedBlockingOptions": {
+      "message": "Opciones Avanzadas de Bloqueo"
+   },
+   "popup_allowCustomUrl": {
+      "message": "Permitir URL Personalizada"
+   },
+   "popup_allowEntireSite": {
+      "message": "Permitir sitio completo"
+   },
+   "popup_allowUrl": {
+      "message": "Permitir esta URL"
+   },
+   "popup_blockCustomUrl": {
+      "message": "Bloquear URL Personalizada"
+   },
+   "popup_blockEntireSite": {
+      "message": "Bloquear sitio completo"
+   },
+   "popup_blockUrl": {
+      "message": "Bloquear esta URL"
+   },
+   "popup_enterCustomUrl": {
+      "message": "O ingresa una URL personalizada:"
+   },
+   "privacyPolicy": {
+      "message": "Política de Privacidad"
+   },
+   "privatePolicyProps1": {
+      "message": "No queremos saber quién eres"
+   },
+   "privatePolicyProps2": {
+      "message": "Desidentificamos cualquier información que recopilamos"
+   },
+   "privatePolicyProps3": {
+      "message": "Nunca vendemos ninguna información recopilada a terceros"
+   },
+   "privatePolicyProps4": {
+      "message": "Evitamos intencionalmente y nunca manejamos datos sensibles"
+   },
+   "privatePolicyProps5": {
+      "message": "Utilizamos información anonimizada para seguir desarrollando productos y servicios de StayFocusd y Sensor Tower"
+   },
+   "privatePolicyTitle": {
+      "message": "Por favor, ten en cuenta:"
+   },
+   "problemImportingSettings": {
+      "message": "Hubo un problema al importar tu configuración."
+   },
+   "reTypeTextBelow": {
+      "message": "Vuelve a escribir el texto a continuación"
+   },
+   "redirectMessage": {
+      "message": "Mensaje de redirección"
+   },
+   "redirectMessageDescription": {
+      "message": "Cuando StayFocusd bloquea un sitio, se redirige a stayfocusd.com con el mensaje \"¿No deberías estar trabajando?\" Puedes reemplazar ese mensaje con uno personalizado."
+   },
+   "redirectMessagePlaceholder": {
+      "message": "Introduce un mensaje personalizado..."
+   },
+   "remaining": {
+      "message": "restante"
+   },
+   "removeDeviceConfirmationMessage": {
+      "message": "Eliminar este dispositivo no eliminará ningún dato de uso, simplemente no podrás ver su uso desde los otros dispositivos."
+   },
+   "removeSitesAtAnyTime": {
+      "message": "Puedes eliminar sitios de la lista de Sitios Permitidos en cualquier momento, independientemente de si tu tiempo ha expirado."
+   },
+   "removeSitesDescription1": {
+      "message": "Haz clic en el"
+   },
+   "removeSitesDescription2": {
+      "message": "para eliminar un sitio de la lista."
+   },
+   "requireChallenge": {
+      "message": "Requerir Desafío"
+   },
+   "requireChallengeDescription": {
+      "message": "Si esta opción está seleccionada, se te pedirá que completes un desafío difícil, pero no imposible, antes de que se te permita cambiar cualquier configuración. Esto hace que sea incómodo para ti cambiar las configuraciones, reduciendo así las posibilidades de que hagas trampa."
+   },
+   "requireChallengeTextHasBeenSet": {
+      "message": "Tu texto de desafío ha sido establecido."
+   },
+   "required": {
+      "message": "Acción requerida"
+   },
+   "resetToDefault": {
+      "message": "Restablecer a valores predeterminados"
+   },
+   "reviewExtensionAsk": {
+      "message": "¿Disfrutas de la extensión?"
+   },
+   "reviewExtensionPrompt": {
+      "message": "Califica StayFocusd"
+   },
+   "saturday": {
+      "message": "Sábado"
+   },
+   "saveChanges": {
+      "message": "GUARDAR CAMBIOS"
+   },
+   "saveGroup": {
+      "message": "Guardar grupo"
+   },
+   "saveMessage": {
+      "message": "Guardar mensaje"
+   },
+   "saveNotifications": {
+      "message": "Guardar notificaciones"
+   },
+   "scheduleCall": {
+      "message": "Programa una reunión"
+   },
+   "search": {
+      "message": "Buscar"
+   },
+   "seconds": {
+      "message": "segundo(s)"
+   },
+   "selectAll": {
+      "message": "Seleccionar todo"
+   },
+   "selectDateRange": {
+      "message": "Seleccionar un Rango de Fechas"
+   },
+   "sessionCount": {
+      "message": "$1 sesión(es)"
+   },
+   "sessions": {
+      "message": "Sesiones"
+   },
+   "set": {
+      "message": "Establecer"
+   },
+   "setCustomText": {
+      "message": "Establecer texto personalizado"
+   },
+   "setUpCall": {
+      "message": "O, programa una llamada para charlar con nosotros."
+   },
+   "settingICanBeMoreProductive": {
+      "message": "configuraciones para ser más productivo"
+   },
+   "settings": {
+      "message": "Ajustes"
+   },
+   "settingsUpdated": {
+      "message": "Tus ajustes han sido actualizados."
+   },
+   "share": {
+      "message": "Compartir"
+   },
+   "shareLimitAcrossDevices": {
+      "message": "Compartir el límite entre dispositivos emparejados"
+   },
+   "shareLimitAcrossDevicesDescription": {
+      "message": "Este límite considera el uso en todos los dispositivos emparejados."
+   },
+   "shared": {
+      "message": "Compartido"
+   },
+   "showAdCount": {
+      "message": "Mostrar recuento de anuncios"
+   },
+   "showAdCountDescription": {
+      "message": "El número de distracciones que has tenido en estos sitios web bloqueados"
+   },
+   "showLabel": {
+      "message": "Mostrar:"
+   },
+   "spentTimeOnBlockedSites": {
+      "message": "Así es como pasaste tiempo en sitios bloqueados:"
+   },
+   "start": {
+      "message": "Comenzar"
+   },
+   "stayFreePairing": {
+      "message": "Conéctate con StayFree"
+   },
+   "stayFreePairingDescription": {
+      "message": "¡StayFocusd ahora forma parte de StayFree!",
+      "placeholders": {
+         "stayfree": {
+            "content": "\u003Cb>Familia StayFree\u003C/b>"
+         }
+      }
+   },
+   "stayFreePairingFeatures": {
+      "message": "Conecta StayFocusd con StayFree en tu móvil o escritorio para $features$.",
+      "placeholders": {
+         "features": {
+            "content": "\u003Cb>sincronizar tu tiempo de pantalla, establecer límites de uso entre dispositivos y rastrear tus hábitos digitales, todo en un solo lugar\u003C/b>"
+         }
+      }
+   },
+   "stayfreePairingPromoDescription": {
+      "message": "¡Instala las aplicaciones StayFree en tu teléfono móvil o tu computadora desde $stayfreeWebsite$ y combínalas con StayFocusd para establecer límites de uso entre dispositivos y rastrear tu tiempo de pantalla en un solo panel!",
+      "placeholders": {
+         "stayfreeWebsite": {
+            "content": "\u003Ca class=\"link link-primary\" target=\"_blank\" href=\"https://stayfreeapps.com?download&utm_source=stayfocusd_dialog\">Sitio web de StayFree\u003C/a>"
+         }
+      }
+   },
+   "stayfreePairingPromoLearnMore": {
+      "message": "Más información"
+   },
+   "stayfreePairingPromoTitle": {
+      "message": "¡StayFocusd ahora se combina con las aplicaciones StayFree!"
+   },
+   "submit": {
+      "message": "Enviar"
+   },
+   "success": {
+      "message": "Éxito"
+   },
+   "sunday": {
+      "message": "Domingo"
+   },
+   "supportId": {
+      "message": "ID de soporte"
+   },
+   "syncNow": {
+      "message": "Sincronizar ahora"
+   },
+   "syncOption": {
+      "message": "Sincronizar"
+   },
+   "syncOptionDescription": {
+      "message": "Por defecto, StayFocusd sincronizará tus Sitios Bloqueados y Sitios Permitidos entre todos tus dispositivos a través de Chrome Sync. Haz clic en la casilla de abajo para desactivar esta función."
+   },
+   "tellingYourMom": {
+      "message": "Le diré a tu mamá."
+   },
+   "testMode": {
+      "message": "Modo de prueba"
+   },
+   "theme": {
+      "message": "Tema"
+   },
+   "theme_auto": {
+      "message": "Sigue el navegador"
+   },
+   "theme_dark": {
+      "message": "Oscuro"
+   },
+   "theme_light": {
+      "message": "Claro"
+   },
+   "thisDevice": {
+      "message": "Este dispositivo"
+   },
+   "thursday": {
+      "message": "Jueves"
+   },
+   "time": {
+      "message": "Hora"
+   },
+   "timeExpiredCannotChangeUntilTomorrow": {
+      "message": "Tu tiempo para hoy ha expirado. No puedes cambiar esta configuración hasta mañana."
+   },
+   "timeExpiredForGroup": {
+      "message": "El límite de tiempo de $groupName$ ha expirado hoy. No puedes aplicar cambios a este grupo hasta mañana. Los sitios bloqueados no pueden ser eliminados, pero aún puedes añadir nuevos sitios bloqueados cuando quieras.",
+      "placeholders": {
+         "groupName": {
+            "content": "$1"
+         }
+      }
+   },
+   "timeLeft": {
+      "message": "Tiempo Restante"
+   },
+   "timeRemaining": {
+      "message": "Tiempo Restante"
+   },
+   "today": {
+      "message": "Hoy"
+   },
+   "todayOnly": {
+      "message": "Solo hoy"
+   },
+   "tos": {
+      "message": "Términos de Servicio"
+   },
+   "tosHaveChanged": {
+      "message": "Nuestros Términos de Servicio han cambiado. Abre la página de ajustes para aceptarlos."
+   },
+   "totalAllowedTime": {
+      "message": "Tiempo Total Permitido"
+   },
+   "trackTabsPlayingAudio": {
+      "message": "¿Rastrear pestañas reproduciendo audio/vídeo?"
+   },
+   "trackTabsPlayingAudioDescription": {
+      "message": "Rastrea las pestañas que reproducen audio o vídeo en segundo plano en tu uso diario."
+   },
+   "tuesday": {
+      "message": "Martes"
+   },
+   "under18Message": {
+      "message": "¡StayFocusd se puede usar si tienes menos de 18 años! Algunas funciones pueden no estar disponibles."
+   },
+   "unknownDeviceName": {
+      "message": "Dispositivo Desconocido"
+   },
+   "unlink": {
+      "message": "Desvincular"
+   },
+   "updateNoticesOption": {
+      "message": "Avisos de actualización de StayFocusd"
+   },
+   "updateNoticesOptionDescription": {
+      "message": "Cuando StayFocusd se actualiza, se muestra un distintivo NUEVO en el icono de StayFocusd. Al hacer clic en el icono, se abre una nueva ventana con información sobre la última actualización. Esto sucede muy raramente."
+   },
+   "usageLastSynced": {
+      "message": "Uso sincronizado por última vez:"
+   },
+   "usageTime": {
+      "message": "Tiempo de uso"
+   },
+   "usingWildcardRule1": {
+      "message": "Puedes usar un"
+   },
+   "usingWildcardRule2": {
+      "message": "asterisco (*) como comodín"
+   },
+   "usingWildcardRule3": {
+      "message": "(es decir, *.com bloquea todos los sitios .com, o *foo bloquea todos los dominios con la palabra \"foo\" en ellos)"
+   },
+   "visitCustomize1": {
+      "message": "Visita"
+   },
+   "visitCustomize2": {
+      "message": "personalizar"
+   },
+   "visitCustomize3": {
+      "message": "pestaña para ocultar/mostrar el interruptor de desactivación."
+   },
+   "visitDuration": {
+      "message": "Duración de la visita"
+   },
+   "walkthrough_activeDaysAndHours": {
+      "message": "Puedes configurar en qué días de la semana y en qué horas del día quieres que StayFocusd cuente tu tiempo para los sitios web bloqueados."
+   },
+   "walkthrough_activeDaysAndHoursName": {
+      "message": "Días Activos y Horas Activas"
+   },
+   "walkthrough_allowedSites": {
+      "message": "Agrega sitios web o URLs aquí para evitar que cuenten hacia tu tiempo máximo permitido y para no bloquearlos después de que se haya acabado tu tiempo. \u003Cbr /> \u003Cbr /> Por ejemplo, si agregas youtube.com como un sitio bloqueado, puedes agregar cualquier URL de video de YouTube como un sitio permitido para verlo después de que se haya acabado tu tiempo diario."
+   },
+   "walkthrough_blockedAllSites": {
+      "message": "Cuando está activado, todos los sitios web (excepto los que están en tu lista de \"Sitios Permitidos\") contarán hacia tu tiempo máximo permitido por día."
+   },
+   "walkthrough_blockedSites": {
+      "message": "Aquí es donde puedes agregar los sitios web en los que quieres pasar menos tiempo. Para cada grupo de sitios web, asignas un tiempo máximo permitido por día. Cuando se acabe tu tiempo diario, StayFocusd te bloqueará el acceso a los sitios web de ese grupo."
+   },
+   "walkthrough_nuclear": {
+      "message": "La Opción Nuclear te da la capacidad de bloquear inmediatamente sitios web sin tener que esperar a que se acabe tu tiempo. Es el método más extremo de StayFocusd para bloquear sitios web porque no se puede desactivar. \u003Cbr /> \u003Cbr /> Úsalo cuando necesites concentrarte realmente y terminar algo."
+   },
+   "walkthrough_nuclearSpecificTime": {
+      "message": "Además de habilitar automáticamente \"La Opción Nuclear\" en algún momento futuro, también puedes habilitarla automáticamente en un horario repetitivo."
+   },
+   "walkthrough_requireChallenge": {
+      "message": "Esto evita que rompas tus propias reglas. Cuando está activado, tendrás que escribir un párrafo muy largo sin cometer errores antes de cambiar la configuración. Esto evita que hagas trampa, por ejemplo, aumentando el tiempo máximo permitido, eliminando sitios bloqueados o agregando nuevos sitios permitidos."
+   },
+   "wantToHelpUsImproveStayFocusd": {
+      "message": "¿Quieres ayudarnos a mejorar StayFocusd? Completa el"
+   },
+   "wantToTestRequireChallenge": {
+      "message": "¿Quieres probar el desafío antes de activarlo?"
+   },
+   "wednesday": {
+      "message": "Miércoles"
+   },
+   "whitelist": {
+      "message": "Sitios Permitidos"
+   },
+   "whitelistAddingSiteDescription": {
+      "message": "Agrega sitio(s) para permitir en el cuadro de texto a continuación, luego haz clic en \"Agregar Sitio(s) Permitido(s)\". Algunos consejos:"
+   },
+   "whitelistAddingSiteRule1": {
+      "message": "Para permitir varios sitios, añade uno por línea."
+   },
+   "whitelistAddingSiteRule2": {
+      "message": "Puedes usar un asterisco (*) como comodín (por ejemplo, *.com permite todos los sitios .com, o *foo permite todos los dominios con la palabra \"foo\" en ellos)"
+   },
+   "wildcardsPathsNotSupported": {
+      "message": "* Los límites de uso para comodines y rutas web no son compatibles en las aplicaciones Stayfree."
+   },
+   "xAds": {
+      "message": "$1 anuncios"
+   },
+   "xSessions": {
+      "message": "$1 sesión(es)"
+   },
+   "yesterday": {
+      "message": "Ayer"
+   },
+   "youAreCurrentlyOn": {
+      "message": "Actualmente estás en:"
+   }
+}

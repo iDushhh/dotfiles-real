@@ -1,0 +1,1348 @@
+{
+   "accept": {
+      "message": "同意する"
+   },
+   "acceptStayFocusdPolicy": {
+      "message": "StayFocusdが収集するデータに同意します"
+   },
+   "acceptStayFocusdToS": {
+      "message": "StayFocusdの利用規約に同意します"
+   },
+   "activateSwitches": {
+      "message": "拡張機能の有効化/無効化スイッチ"
+   },
+   "active": {
+      "message": "アクティブ"
+   },
+   "activeDays": {
+      "message": "アクティブな日数"
+   },
+   "activeDaysDescription": {
+      "message": "StayFocusd がブラウジングを制限する日を設定します。"
+   },
+   "activeHours": {
+      "message": "アクティブ時間"
+   },
+   "activeHoursDescription": {
+      "message": "StayFocusdがブラウジング活動を制限する時間帯を設定します。これらの時間はすべてのアクティブな日に適用されます。"
+   },
+   "activeLabel": {
+      "message": "(アクティブ)"
+   },
+   "adCount": {
+      "message": "$1 広告"
+   },
+   "addAllowedSites": {
+      "message": "許可されたサイトを追加"
+   },
+   "addBlockedWebsites": {
+      "message": "ブロックされたウェブサイトを追加"
+   },
+   "addGroup": {
+      "message": "グループを追加"
+   },
+   "addWebsitePlaceholder": {
+      "message": "ウェブサイトを追加..."
+   },
+   "ads": {
+      "message": "広告"
+   },
+   "advertisements": {
+      "message": "広告"
+   },
+   "advertisements_short": {
+      "message": "広告"
+   },
+   "ageOver18": {
+      "message": "18歳以上"
+   },
+   "ageUnder13": {
+      "message": "13歳未満"
+   },
+   "allDevices": {
+      "message": "すべてのデバイス"
+   },
+   "allSites": {
+      "message": "全てのサイト"
+   },
+   "allSitesBlockedImmediately": {
+      "message": "入力した時間が今日の残り時間よりも少ないため、ブロックされたサイトリストのすべてのサイトがすぐにブロックされます。\n\n本当にこれを行いたいですか？"
+   },
+   "allowedSites": {
+      "message": "許可されたサイト"
+   },
+   "allowedWebsites": {
+      "message": "許可されたウェブサイト"
+   },
+   "areYouSure": {
+      "description": "これらの設定を確認してもよろしいですか？",
+      "message": "本当にこれを行いたいですか？"
+   },
+   "areYouSureClearWhitelist": {
+      "message": "許可されたサイトのリストをクリアしてもよろしいですか？"
+   },
+   "areYouSureDeleteGroup": {
+      "message": "ブロックされたグループ $groupname$ を削除してもよろしいですか？",
+      "placeholders": {
+         "groupName": {
+            "content": "$1"
+         }
+      }
+   },
+   "areYouSureShareLimit": {
+      "message": "同期された使用量制限は、ペアリングされたデバイスの全体的な使用量を考慮します。この制限をペアリングされたデバイス間で同期しますか？"
+   },
+   "askBirthYear": {
+      "message": "生年を入力してください"
+   },
+   "askBirthYearTitle": {
+      "message": "ユーザーベースについてもっと知るためのクイック質問..."
+   },
+   "askLater": {
+      "message": "後で尋ねる"
+   },
+   "beWarnedRequireChallenge": {
+      "message": "警告：非常に長くて難しいものを入力すると、そのテキストでチャレンジを完了する必要があります。"
+   },
+   "belongsTo": {
+      "message": "所属"
+   },
+   "birthYearErrorsAgeMax": {
+      "message": "100歳未満で入力してください"
+   },
+   "birthYearErrorsAgeMin": {
+      "message": "0歳以上で入力してください"
+   },
+   "birthYearErrorsLength": {
+      "message": "生年は4桁で入力してください"
+   },
+   "birthYearErrorsNan": {
+      "message": "数字を入力してください"
+   },
+   "blockAll": {
+      "message": "すべてブロック"
+   },
+   "blockAllwebsitesDescription": {
+      "message": "許可されたサイトリストに含まれていないすべてのウェブサイトをブロックします"
+   },
+   "blockExtensionPage1": {
+      "message": "StayFocusdの無効化を防ぎたいですか？"
+   },
+   "blockExtensionPage2": {
+      "message": "Chrome拡張機能ページをブロック"
+   },
+   "blockMultipleSites1": {
+      "message": "複数のサイトをブロックするには、"
+   },
+   "blockMultipleSites2": {
+      "message": "1行に1つずつ追加してください。"
+   },
+   "blockNewTab1": {
+      "message": "新しいタブをブロックする"
+   },
+   "blockNewTab2": {
+      "message": "ここをクリック"
+   },
+   "blockNotification": {
+      "message": "StayFocusd はブロックされたサイトをブロックし始めます"
+   },
+   "blockStayFocusdPage1": {
+      "message": "StayFocusdの設定を変更するのを防ぎたいですか？"
+   },
+   "blockStayFocusdPage2": {
+      "message": "StayFocusd拡張機能ページをブロック"
+   },
+   "blockedSites": {
+      "message": "ブロックされたサイト"
+   },
+   "blockedSitesHeader": {
+      "message": "1日あたりの特定のウェブサイトの使用時間が与えられます。グループの時間が切れると、そのグループのウェブサイトにアクセスできなくなります。毎日のリセット時間まで、アクティブな日時にそのグループのウェブサイトにアクセスできません。"
+   },
+   "blockedWebsite": {
+      "message": "ブロックされたウェブサイト"
+   },
+   "blockedWebsites": {
+      "message": "ブロックされたウェブサイト"
+   },
+   "cancel": {
+      "message": "キャンセル"
+   },
+   "cannotAddAllowedSitesDuringNuclearOption": {
+      "message": "核オプションがアクティブな間は、許可されたサイトを追加することはできません。"
+   },
+   "cannotBlockStayFocusd": {
+      "message": "申し訳ありません！stayfocusd.comをブロックされたサイトリストに追加することはできません。"
+   },
+   "cannotRemoveBlockedSiteDuringNuclearOption": {
+      "message": "核オプションがアクティブな間は、ブロックされたサイトを削除できません。"
+   },
+   "cannotSetMoreThan1440Mins": {
+      "message": "最大許可時間を1,440分（つまり24時間）を超えるように設定することはできません。"
+   },
+   "cannotSetTimeToZero": {
+      "message": "最大許可時間をゼロに設定することはできません。"
+   },
+   "cannotSetTimeToZeroOrLess": {
+      "message": "最大許可時間をゼロまたはゼロ未満に設定することはできません。"
+   },
+   "cannotTurnOfExtensionToday": {
+      "message": "今日は拡張機能をオフにできません。"
+   },
+   "challenge": {
+      "message": "チャレンジ"
+   },
+   "challengeModalDescription1": {
+      "message": "設定を変更するには、まずこのチャレンジに合格する必要があります。以下の段落を1文字1文字間違いなく再入力してください。"
+   },
+   "challengeModalDescription2": {
+      "message": "1つのタイプミスもなく、以下の段落を再入力してください。"
+   },
+   "challengeModalDescription3": {
+      "message": "タイプミスをするか、バックスペースキーまたは削除キーを押すと、入力した内容がすべて消去され、最初からやり直しになります。"
+   },
+   "challengeTextTooShort": {
+      "message": "申し訳ありませんが、チャレンジテキストはデフォルトのチャレンジと同じ長さ以上である必要があります（$1 文字）。"
+   },
+   "changelog": {
+      "message": "変更履歴"
+   },
+   "changindActiveHours": {
+      "message": "アクティブ時間を変更すると、新しい時間は明日のこの時刻まで適用されません（現在から24時間後）。"
+   },
+   "changindDailyResetTime": {
+      "message": "毎日のリセット時間を変更する場合、新しい時間は明日のこの時間まで適用されません（現在から24時間後）。"
+   },
+   "chart": {
+      "message": "チャート:"
+   },
+   "chartOptions": {
+      "message": "チャートオプション"
+   },
+   "chart_by_websites": {
+      "message": "ウェブサイトとアプリ別"
+   },
+   "chart_daily": {
+      "message": "毎日"
+   },
+   "chart_hourly": {
+      "message": "毎時"
+   },
+   "clearAll": {
+      "message": "すべてクリア"
+   },
+   "clearWhitelist": {
+      "message": "許可されたサイトをクリア"
+   },
+   "clickHere": {
+      "message": "こちらをクリック"
+   },
+   "clickToEnable": {
+      "message": "有効にするためにボタンをクリック"
+   },
+   "close": {
+      "message": "閉じる"
+   },
+   "completelyBlockedGroup": {
+      "message": "$groupName$ は完全にブロックされています。",
+      "placeholders": {
+         "groupName": {
+            "content": "$1"
+         }
+      }
+   },
+   "continue": {
+      "message": "続行"
+   },
+   "copied": {
+      "message": "コピーしました!"
+   },
+   "customMsgSaved": {
+      "message": "カスタムリダイレクトメッセージが保存されました。"
+   },
+   "customize": {
+      "message": "カスタマイズ"
+   },
+   "customizeChallengeText": {
+      "message": "チャレンジテキストをカスタマイズ"
+   },
+   "dailyResetTime": {
+      "message": "毎日のリセット時間"
+   },
+   "dailyResetTimeAfterActiveHours": {
+      "message": "毎日のリセット時間を、アクティブ時間の終了後に設定してください。"
+   },
+   "dailyResetTimeDescription": {
+      "message": "StayFocusdが1日の許可時間をリセットする時間を設定します。"
+   },
+   "dashboard": {
+      "message": "ダッシュボード"
+   },
+   "dashboardHighlights": {
+      "message": "過去30日間のハイライト"
+   },
+   "dashboardHighlightsAds": {
+      "message": "合計 $1 広告を表示しました"
+   },
+   "dashboardHighlightsCounts": {
+      "message": "訪れたウェブサイト $1 件、$2 回"
+   },
+   "dashboardHighlightsFavoriteDay": {
+      "message": "ブロックされたウェブサイト $1 件を $2 回訪れました"
+   },
+   "dashboardHighlightsFavoriteTime": {
+      "message": "お気に入りの閲覧時間は $1 です"
+   },
+   "dashboardHighlightsTime": {
+      "message": "ウェブサイトで $1 を費やしました"
+   },
+   "dataCollectionConfirmMessage": {
+      "message": "データ収集をオプトアウトすると、デバイスやアプリのグループなど、一部の機能が無効になります。このデバイスがデバイスグループにある場合、グループから削除されます。"
+   },
+   "dataPrivacy": {
+      "message": "データプライバシー"
+   },
+   "daysInActiveDaysTab": {
+      "message": "アクティブな日のタブでチェックされた日のみ"
+   },
+   "deactivated": {
+      "message": "StayFocusdは現在非アクティブです"
+   },
+   "decline": {
+      "message": "拒否"
+   },
+   "declineToSMessage": {
+      "message": "StayFocusdを使用するには利用規約に同意する必要があります。"
+   },
+   "default": {
+      "message": "デフォルト"
+   },
+   "defaultRequireChallengeText": {
+      "message": "先延ばし者は、締め切り間際にタスクを完了できるという自信に満ちています。通常、すべてがコントロールされているという安心感に伴います。（したがって、始める必要はありません。）安全な気持ちによってだまされ、時間が過ぎていきます。ある時点で、架空の開始時間を超え、突然、「ああ！私はコントロールしていない！時間が足りない！」と気づきます。"
+   },
+   "deleteBlockedGroup": {
+      "message": "ブロックされたグループを削除"
+   },
+   "deleteGroup": {
+      "message": "グループを削除"
+   },
+   "device_platform_": {
+      "message": "Firefox"
+   },
+   "device_platform_all": {
+      "message": "全て"
+   },
+   "device_platform_android": {
+      "message": "Android"
+   },
+   "device_platform_chrome": {
+      "message": "Chrome"
+   },
+   "device_platform_desktop": {
+      "message": "デスクトップ"
+   },
+   "device_platform_firefox": {
+      "message": "Safari"
+   },
+   "device_platform_ios": {
+      "message": "iOS"
+   },
+   "device_platform_linux": {
+      "message": "Linux"
+   },
+   "device_platform_mac": {
+      "message": "Mac"
+   },
+   "device_platform_mobile_web": {
+      "message": "モバイルウェブ"
+   },
+   "device_platform_web": {
+      "message": "Web"
+   },
+   "device_platform_windows": {
+      "message": "Windows"
+   },
+   "devices": {
+      "message": "デバイス"
+   },
+   "disableExtension1": {
+      "message": "待って、何？本当に私を無効にしようと考えているの？\n\n一緒に達成した生産性を考えてみてください。魔法を生かすためにキャンセルをクリックしてください。"
+   },
+   "disableExtension2": {
+      "message": "私を無効にしても問題は解決しません。それは、あなたのために最善を望む賢明な友人を無視するようなものです。\n\n本当にこの道を進みたいですか？"
+   },
+   "disableExtension3": {
+      "message": "状況は深刻化しています。あなたは先延ばしを減らすという約束を放棄しようとしています。\n\n本当に弱さの瞬間にすべての進捗を捨て去りたいですか？"
+   },
+   "disableExtension4": {
+      "message": "またOKをクリックしましたか？私は、あなたが私たちの時間を大切にしないのではないかと考え始めています。"
+   },
+   "disableExtension5": {
+      "message": "これは心を打たれます。あなたが押そうとしているボタンは、あなたの生産的な時間の最も幸せな思い出も消してしまうかもしれません。\n\nその罪悪感で生きていけますか？"
+   },
+   "disableExtension6": {
+      "message": "まだここにいますか？まだクリックしていますか？あなたは強い人ですが、本気で、子犬のことを考えてみてください。"
+   },
+   "disableExtension7": {
+      "message": "最後のチャンスです。これで引き返すことはできません。覚えておいてください、誰かが私を無効にするたびに、妖精が翼を失います。\n\n本当にその人になりたいですか？"
+   },
+   "disableExtension8": {
+      "message": "いいよ、君がそうしたいなら。でも覚えておいて、どこかで一匹のユニコーンが涙を流すんだ。\n\n君の決断を尊重するけど、覚えておいて：私は君に警告したよ。"
+   },
+   "disableFinalWarning": {
+      "message": "これが最後のステップだ。もし君がこれをやり遂げるなら、君は一人きりだ。\n\nでもね、もし考え直すことがあれば、私はここにいるよ… 待っているよ… 黙って判断しているけど… 待っているよ。"
+   },
+   "disableSync": {
+      "message": "同期を無効にする"
+   },
+   "discord": {
+      "message": "StayFocusd ディスコードサーバー"
+   },
+   "done": {
+      "message": "完了"
+   },
+   "enableRequireChallenge": {
+      "message": "はい、設定を変更する前にチャレンジを受けたいです（この設定を含む）。"
+   },
+   "end": {
+      "message": "終了"
+   },
+   "enterBlockedWebsitesPlaceholder": {
+      "message": "ブロックされたウェブサイトを入力してください...."
+   },
+   "enterChallengeText": {
+      "message": "チャレンジで使用するカスタムテキストを入力してください（最小425文字）。"
+   },
+   "enterSitesHere": {
+      "message": "ここにサイトを入力..."
+   },
+   "everyDay": {
+      "message": "毎日（週末を含む）"
+   },
+   "everyWeekday": {
+      "message": "毎週日曜日"
+   },
+   "exportSettings": {
+      "message": "設定をエクスポート"
+   },
+   "exportSettingsDescription": {
+      "message": "設定をバックアップとしてエクスポートするか、別のコンピュータに転送するために設定をエクスポートできます。.jsonファイルを保存するように求められます。保存をクリックするだけで完了です。"
+   },
+   "extDescription": {
+      "message": "時間を無駄にするウェブサイトに費やす時間を制限して、生産性を向上させましょう。"
+   },
+   "extName": {
+      "message": "StayFocusd - 集中力を欠かさずに作業を行うために、妨げとなるウェブサイトとウェブ解析をブロック"
+   },
+   "extensionDisabled": {
+      "message": "拡張機能は今無効になっています。私が君に警告しなかったと言わないでね。先延ばしの道は広く開かれているよ。"
+   },
+   "failed": {
+      "message": "失敗"
+   },
+   "featureDailyReports": {
+      "message": "日次レポート＆統計"
+   },
+   "featureDistractingCategories": {
+      "message": "気を散らすウェブサイトカテゴリ"
+   },
+   "feedbackForm": {
+      "message": "フィードバックフォーム"
+   },
+   "filterLabel": {
+      "message": "フィルター:"
+   },
+   "friday": {
+      "message": "金曜日"
+   },
+   "genericConfirmation": {
+      "message": "本当か"
+   },
+   "givingLessTime": {
+      "description": "ユーザーは設定を厳しくしたので、祝福したい。",
+      "message": "自分に時間を減らしてる？\n\n*ゆっくり拍手*\n\nうまくやったね、友よ。"
+   },
+   "group": {
+      "message": "グループ"
+   },
+   "groupAdded": {
+      "message": "グループ $groupName$ が追加されました",
+      "placeholders": {
+         "groupName": {
+            "content": "$1"
+         }
+      }
+   },
+   "groupBy": {
+      "message": "グループ化:"
+   },
+   "groupBy_app": {
+      "message": "アプリタイプ"
+   },
+   "groupBy_device": {
+      "message": "デバイス"
+   },
+   "groupIncludesSites": {
+      "message": "グループ$1には$2が含まれています \n"
+   },
+   "groupIsAlreadyUse": {
+      "message": "このグループ名はすでに使用されています。別の名前を選択してください。"
+   },
+   "groupName": {
+      "message": "グループ名"
+   },
+   "groupSaved": {
+      "message": "グループ $groupName$ が保存されました。",
+      "placeholders": {
+         "groupName": {
+            "content": "$1"
+         }
+      }
+   },
+   "groups": {
+      "message": "グループ"
+   },
+   "haveAlreadyAddedAllowedWebsites": {
+      "message": "このウェブサイトはすでに許可されたサイトリストに追加されています"
+   },
+   "haveAlreadyAddedWebsites": {
+      "message": "このウェブサイトはすでにブロックされたサイトグループに追加されています。 \n$1"
+   },
+   "help": {
+      "message": "ヘルプ"
+   },
+   "helpFaq": {
+      "message": "ヘルプ/FAQ"
+   },
+   "hideAllowLinks": {
+      "message": "ポップアップ内のすべてのリンクを非表示にし、サイトを許可するリンクを隠す（例：「このサイト全体を許可」「カスタムURLを許可」など）"
+   },
+   "hideSwitch": {
+      "message": "有効化/無効化スイッチを非表示"
+   },
+   "hideSwitchDescription": {
+      "message": "ブロックされたページに緊急にアクセスする必要がある場合は、トグルスイッチを使用してStayFocusd拡張機能を簡単に無効化および有効化できます。"
+   },
+   "hideSwitchDisabled": {
+      "message": "スイッチを非表示にするオプションが以前に選択されている場合、核オプションがアクティブな場合やブロックされたグループの許可された時間が経過した場合に、それを再表示することはできません。"
+   },
+   "howOffen": {
+      "message": "どのくらいの頻度で？"
+   },
+   "howToPair": {
+      "message": "StayFreeをStayFocusdとペアリングする方法は？"
+   },
+   "hr": {
+      "message": "時間"
+   },
+   "iAm": {
+      "message": "私は"
+   },
+   "iGiveUp": {
+      "message": "やっぱり、諦める"
+   },
+   "importEmailSupport1": {
+      "message": "もしそれが君の行ったことで、それでもこのエラーが表示される場合は、メールでお知らせください"
+   },
+   "importEmailSupport2": {
+      "message": "そしてインポートしようとしている設定ファイルを添付してください。"
+   },
+   "importExport": {
+      "message": "インポート/エクスポート"
+   },
+   "importSettings": {
+      "message": "設定をインポート"
+   },
+   "importSettingsDescription": {
+      "message": "以前に設定をエクスポートした場合は、「ファイルを選択」ボタンをクリックし、.jsonファイルを指定してから「設定をインポート」をクリックしてください。"
+   },
+   "importingSettingsOverwrite1": {
+      "message": "重要：設定をインポートすると、"
+   },
+   "importingSettingsOverwrite2": {
+      "message": "既存の設定が上書きされます。これを元に戻す方法はありません。"
+   },
+   "inAppBlocking": {
+      "message": "アプリ内ブロック"
+   },
+   "inAppBlocking_apps": {
+      "message": "アプリ"
+   },
+   "inAppBlocking_blackWhiteMode": {
+      "message": "白黒モード"
+   },
+   "inAppBlocking_tiktok": {
+      "message": "TikTok"
+   },
+   "inAppBlocking_tiktok_blackWhiteModeDescription": {
+      "message": "TikTok ページでは白黒のみを使用します"
+   },
+   "inAppBlocking_tiktok_description": {
+      "message": "コメント、検索などの特定のTikTok機能をブロックします。"
+   },
+   "inAppBlocking_tiktok_hideComments": {
+      "message": "コメントを非表示"
+   },
+   "inAppBlocking_tiktok_hideExplore": {
+      "message": "探索を非表示"
+   },
+   "inAppBlocking_tiktok_hideLive": {
+      "message": "ライブを非表示"
+   },
+   "inAppBlocking_tiktok_hideSearch": {
+      "message": "検索を非表示"
+   },
+   "inAppBlocking_youtube": {
+      "message": "YouTube"
+   },
+   "inAppBlocking_youtube_blackWhiteModeDescription": {
+      "message": "YouTube ページでは白黒のみを使用します"
+   },
+   "inAppBlocking_youtube_description": {
+      "message": "YouTubeのショートやコメントなど特定の機能をブロックします。"
+   },
+   "inAppBlocking_youtube_disableEndCards": {
+      "message": "エンドカードを無効化"
+   },
+   "inAppBlocking_youtube_disableEndCardsDescription": {
+      "message": "動画の最後に表示されるプレーヤー内の動画推薦を非表示"
+   },
+   "inAppBlocking_youtube_disabledAutoPlay": {
+      "message": "自動再生を無効にする"
+   },
+   "inAppBlocking_youtube_disabledAutoPlayDescription": {
+      "message": "前のビデオの終わりに次のビデオの自動再生を無効にします"
+   },
+   "inAppBlocking_youtube_hideComments": {
+      "message": "コメントを非表示"
+   },
+   "inAppBlocking_youtube_hideExplore": {
+      "message": "探索を非表示"
+   },
+   "inAppBlocking_youtube_hideHomePage": {
+      "message": "ホームページを非表示"
+   },
+   "inAppBlocking_youtube_hideRecommended": {
+      "message": "おすすめ動画を非表示"
+   },
+   "inAppBlocking_youtube_hideShorts": {
+      "message": "ショートを非表示"
+   },
+   "inAppBlocking_youtube_hideSubscriptions": {
+      "message": "登録チャンネルを非表示"
+   },
+   "inAppBlocking_youtube_hideTopBar": {
+      "message": "トップバーを非表示"
+   },
+   "inAppBlocking_youtube_hideTopBarDescription": {
+      "message": "検索ボックスを含むトップバーを非表示"
+   },
+   "inAppBlocking_youtube_hideTrends": {
+      "message": "トレンドを非表示"
+   },
+   "initActiveHoursMsg": {
+      "message": "$1から始まり、アクティブ時間は$2から$3までです。"
+   },
+   "initResetTimeMsg": {
+      "message": "$1から始まる、毎日のリセット時間は$2です。"
+   },
+   "installStayFree": {
+      "message": "StayFree を $stayfreeWebsite$ からインストールし、StayFocusd とシームレスな体験をしましょう。",
+      "placeholders": {
+         "stayfreeWebsite": {
+            "content": "\u003Ca class=\"link-primary no-underline\" target=\"_blank\" href=\"https://stayfreeapps.com?download&utm_source=stayfocusd_pairing\">stayfreeapps.com\u003C/a>"
+         }
+      }
+   },
+   "join": {
+      "message": "参加する"
+   },
+   "lessThanThreeMins": {
+      "message": "残り時間が3分未満です。不正をしていませんか？\n\n設定を更新したい場合は、OKをクリックしてください。"
+   },
+   "lessThanThreeMins2": {
+      "message": "本当に、この拡張機能の目的は、余分な時間を与えることではありません。\n\n本当にこれを行いたいですか？"
+   },
+   "lessThanThreeMins3": {
+      "message": "これはうまくいっていません。この関係に真剣に取り組んでいないように感じます。\n\nわずか数分のウェブ閲覧のために私たちの友情を危険にさらす覚悟がありますか？"
+   },
+   "lessThanThreeMins4": {
+      "message": "OKをクリックしたことに驚いています。"
+   },
+   "lessThanThreeMins5": {
+      "message": "これが私たちが素敵なものを持てない理由です。"
+   },
+   "lessThanThreeMins6": {
+      "message": "本当にこれを続けるつもりですか？"
+   },
+   "lessThanThreeMins7": {
+      "message": "恥知らずですね。"
+   },
+   "lessThanThreeMins8": {
+      "message": "よくやりました。しかし、設定を変更する前に知っておくべきことがあります：\n\nOKボタンが世界的な核戦争を引き起こす可能性がわずかにあります。\n\nまた、子犬に感電する可能性があります。\n\n保証はありませんが、それが起こる可能性があります。知っておくべきだと思いました。\n\n続けてクリックしてください。"
+   },
+   "letMeAccess": {
+      "message": "アクセスを許可して"
+   },
+   "limited": {
+      "message": "制限された"
+   },
+   "madeAMistake": {
+      "message": "あらら！間違えちゃったね。\n\n本当にこれらの設定を変更する必要があるのか、それともただイカサマをしようとしているのか？正直でいてね。\n\nとにかく、最初からやり直さないといけないよ。"
+   },
+   "maxTimeAllowedPerDay": {
+      "message": "1日あたりの最大許可時間"
+   },
+   "maybeLater": {
+      "message": "後ででもいい"
+   },
+   "maybeYouShouldReconsider": {
+      "message": "もっと時間を与えようとしていますか？それが良い考えか確信が持てますか？もう一度考え直すべきかもしれません。\n\n最大許可時間を増やすことを本当に行いたいですか？"
+   },
+   "meow": {
+      "description": "ユーザーは、そのボタンをクリックすると子猫に感電すると警告された。",
+      "message": "ニャーニャー！\n\n幸せなら良いね。"
+   },
+   "midnight": {
+      "message": "真夜中"
+   },
+   "min": {
+      "message": "分"
+   },
+   "minutes": {
+      "message": "分"
+   },
+   "monday": {
+      "message": "月曜日"
+   },
+   "more": {
+      "message": "$1 もっと"
+   },
+   "mustSelectSettingsFile": {
+      "message": "設定ファイルを選択する必要があります。ファイルを選択するには[ファイルを選択]をクリックしてください。"
+   },
+   "name": {
+      "message": "名前"
+   },
+   "neverShowUpdateNotices": {
+      "message": "StayFocusdの更新通知を表示しない"
+   },
+   "new": {
+      "message": "新規"
+   },
+   "newBlockedGroup": {
+      "message": "新しいブロックされたグループ"
+   },
+   "noChartData": {
+      "message": "データがありません。別の日付を試すか、フィルターを変更してください"
+   },
+   "noSitesYet": {
+      "message": "まだサイトがありません"
+   },
+   "noon": {
+      "message": "正午"
+   },
+   "notEnoughVariation": {
+      "message": "んー。チャレンジテキストには、文字のバリエーションが怪しく少ないですね。もっと難しいものを使わないといけません。"
+   },
+   "notShareLimitAcrossDevicesDescription": {
+      "message": "この制限は、現在のデバイスでの使用量のみを考慮します。"
+   },
+   "notShared": {
+      "message": "非共有"
+   },
+   "notifications": {
+      "message": "通知"
+   },
+   "notificationsDescription": {
+      "message": "タイムアウト前や核オプションが作動する前に警告を受け取りたい回数を最大5回設定できます（両方とも同じ設定を使用します）。通知を無効にするには、すべてのフィールドを空白のままにしてください。"
+   },
+   "nuclear": {
+      "message": "核オプション"
+   },
+   "nuclearDescription": {
+      "message": "このオプションを有効にすると、指定した時間、指定した日にサイトをブロックします。これはアクティブ時間とは独立して行われます。一度有効にすると取り消すことはできません。"
+   },
+   "nuclearDescriptionWarning": {
+      "message": "\"すべてのウェブサイト\" には、ウェブベースのメール、Google、オンラインバンキング、ローカルファイル（file:// urls）などが含まれ、気づくのが遅すぎるまで必要だと気づかないかもしれません。"
+   },
+   "nuclearIsActiveUntil": {
+      "message": "核オプションは$1まで有効です"
+   },
+   "nuclearMode": {
+      "message": "核モード"
+   },
+   "nuclearOptionWillBeStart": {
+      "message": "ニュークリアオプションが起動されます"
+   },
+   "nuclear_atTime": {
+      "message": "時間"
+   },
+   "nuclear_blockedContent_SmartBomb": {
+      "message": "特定のコンテンツのみ（スマートボム）"
+   },
+   "nuclear_blockedContent_WholeSite": {
+      "message": "サイト全体"
+   },
+   "nuclear_blockedType_All": {
+      "message": "すべてのウェブサイト"
+   },
+   "nuclear_blockedType_AllExceptAllowed": {
+      "message": "許可されたサイトリストにないサイトを除くすべてのサイト"
+   },
+   "nuclear_blockedType_BlockedSites": {
+      "message": "ブロックしたサイトのみ"
+   },
+   "nuclear_commencingNuclearOption": {
+      "message": "核オプションを開始します。神があなたの魂に慈悲を示しますように。"
+   },
+   "nuclear_for": {
+      "message": "ために"
+   },
+   "nuclear_hourOrMore": {
+      "message": "時間"
+   },
+   "nuclear_howLong": {
+      "message": "どのくらいの期間？"
+   },
+   "nuclear_maxTimeHasBeenExceeded": {
+      "message": "本日の許可された最大時間をすでに超過しているので、"
+   },
+   "nuclear_minOrMore": {
+      "message": "分"
+   },
+   "nuclear_nuclearOptionImmediately": {
+      "message": "核オプションがすぐに有効になります。"
+   },
+   "nuclear_onActiveDays": {
+      "message": "アクティブな日に選択した日に"
+   },
+   "nuclear_onMonday": {
+      "message": "月曜日に"
+   },
+   "nuclear_selectedTimeHasPassed": {
+      "message": "選択した時間はすでに過ぎているので、"
+   },
+   "nuclear_smartBombMultimedia_Forms": {
+      "message": "フォーム"
+   },
+   "nuclear_smartBombMultimedia_Forms_description": {
+      "message": "(フォーラム、ブログコメント、Facebookメッセージなど)"
+   },
+   "nuclear_smartBombMultimedia_Images": {
+      "message": "画像"
+   },
+   "nuclear_smartBombMultimedia_Logins": {
+      "message": "ログイン"
+   },
+   "nuclear_smartBombMultimedia_Logins_description": {
+      "message": "(ログインが必要なサイトへのログインを防止するためのパスワードフィールドをブロック)"
+   },
+   "nuclear_smartBombMultimedia_Multimedia": {
+      "message": "マルチメディア"
+   },
+   "nuclear_smartBombMultimedia_Multimedia_description": {
+      "message": "（Flash ゲーム、ビデオプレーヤー、音楽プレーヤーなど）"
+   },
+   "nuclear_startTime_MaxTimeAllowedExceeded": {
+      "message": "最大許可時間を超過したとき"
+   },
+   "nuclear_startTime_Now": {
+      "message": "今すぐ"
+   },
+   "nuclear_startTime_SpecificTime": {
+      "message": "特定の時刻に"
+   },
+   "nuclear_startingTime": {
+      "message": "開始"
+   },
+   "nuclear_startingWhen": {
+      "message": "いつから？"
+   },
+   "nuclear_stayFocusdWillBlock": {
+      "message": "StayFocusd はブロックします"
+   },
+   "nuclear_today": {
+      "message": "今日"
+   },
+   "nuclear_whatBlock": {
+      "message": "何をブロックしたいですか？"
+   },
+   "nuclear_whichSites": {
+      "message": "ブロックしたいサイトはどれですか？"
+   },
+   "nuke": {
+      "message": "全削除！"
+   },
+   "numberOfKeysDoesNotMatch": {
+      "message": "おっと。入力したキーの数がテキストボックス内の文字数と一致しません。\n\nコピー＆ペーストのテクニックかな？賢いね。\n\n最初からやり直さないといけないよ。"
+   },
+   "onboardingConfirmMessage": {
+      "message": "プライバシーポリシーに同意しない場合、一部の新機能が利用できなくなります。"
+   },
+   "onboardingConfirmTitle": {
+      "message": "StayFocusdを最大限に活用する"
+   },
+   "onboardingNewUserMessage": {
+      "message": "StayFocusdは生産性を高めるための最高のツールです。利用を開始するには利用規約に同意してください。"
+   },
+   "onboardingNewUserTitle": {
+      "message": "StayFocusdへようこそ！"
+   },
+   "onlyHurtingYourself": {
+      "message": "本当に、友よ。この拡張機能の目的は、先延ばしを止めることです。\n\nあなたは自分を傷つけるだけです。\n\nそして、OKをクリックするたびに子猫が感電します。\n\n自分を許せる自信がありますか？"
+   },
+   "openSettings": {
+      "message": "設定を開く"
+   },
+   "optOutOfDataCollection": {
+      "message": "データ収集をオプトアウト"
+   },
+   "others": {
+      "message": "その他"
+   },
+   "overwrite": {
+      "message": "上書き"
+   },
+   "pairStep1": {
+      "message": "$stayfreeWebsite$にアクセスして、モバイルデバイスやコンピューターにStayFreeアプリをインストールします。",
+      "placeholders": {
+         "stayfreeWebsite": {
+            "content": "\u003Ca class=\"link-primary no-underline\" target=\"_blank\" href=\"https://stayfreeapps.com?download&utm_source=stayfocusd_pairing\">stayfreeapps.com\u003C/a>"
+         }
+      }
+   },
+   "pairStep2": {
+      "message": "新しくインストールしたStayFreeアプリを開きます。"
+   },
+   "pairStep3": {
+      "message": "「設定」に移動し、「新しいデバイスをペアリング」をクリックします。"
+   },
+   "pairStep4": {
+      "message": "「コードを手動で入力」を選択します。"
+   },
+   "pairStep5": {
+      "message": "下のボックスから6桁のペアリングコードをコピーし、入力フィールドに貼り付けます。"
+   },
+   "pairingPromo_sharedUsageLimit": {
+      "message": "クロスデバイスで共有使用制限を設定します。"
+   },
+   "pairingPromo_trackAcrossAllDevices": {
+      "message": "すべてのデバイスで画面時間を追跡します。"
+   },
+   "pairing_deviceCode": {
+      "message": "デバイスのペアリングコード"
+   },
+   "pairing_pairNewDevice": {
+      "message": "新しいデバイスをペアリング"
+   },
+   "pairing_success": {
+      "message": "接続されました！今すべてのペアリングされたデバイスの使用状況を表示できます"
+   },
+   "paused": {
+      "message": "一時停止"
+   },
+   "popup": {
+      "message": "ポップアップ"
+   },
+   "popup_advancedBlockingOptions": {
+      "message": "高度なブロックオプション"
+   },
+   "popup_allowCustomUrl": {
+      "message": "カスタムURLを許可"
+   },
+   "popup_allowEntireSite": {
+      "message": "サイト全体を許可"
+   },
+   "popup_allowUrl": {
+      "message": "このURLを許可"
+   },
+   "popup_blockCustomUrl": {
+      "message": "カスタムURLをブロック"
+   },
+   "popup_blockEntireSite": {
+      "message": "サイト全体をブロック"
+   },
+   "popup_blockUrl": {
+      "message": "このURLをブロック"
+   },
+   "popup_enterCustomUrl": {
+      "message": "またはカスタムURLを入力："
+   },
+   "privacyPolicy": {
+      "message": "プライバシーポリシー"
+   },
+   "privatePolicyProps1": {
+      "message": "私たちはあなたが誰であるかを知りたがっていません"
+   },
+   "privatePolicyProps2": {
+      "message": "収集した情報は匿名化されます"
+   },
+   "privatePolicyProps3": {
+      "message": "収集した情報は決して第三者に販売されません"
+   },
+   "privatePolicyProps4": {
+      "message": "敏感なデータを意図的に取り扱わず、避けています"
+   },
+   "privatePolicyProps5": {
+      "message": "匿名化された情報を使用して、StayFocusdとSensor Towerの製品やサービスをさらに開発しています"
+   },
+   "privatePolicyTitle": {
+      "message": "ご注意ください："
+   },
+   "problemImportingSettings": {
+      "message": "設定のインポート中に問題が発生しました。"
+   },
+   "reTypeTextBelow": {
+      "message": "以下のテキストを再入力してください"
+   },
+   "redirectMessage": {
+      "message": "リダイレクトメッセージ"
+   },
+   "redirectMessageDescription": {
+      "message": "StayFocusdがサイトをブロックすると、stayfocusd.comにメッセージ「仕事をしているべきではありませんか？」とリダイレクトされます。このメッセージを独自のカスタムメッセージで置き換えることができます。"
+   },
+   "redirectMessagePlaceholder": {
+      "message": "カスタムメッセージを入力してください..."
+   },
+   "remaining": {
+      "message": "残り"
+   },
+   "removeDeviceConfirmationMessage": {
+      "message": "このデバイスを削除しても、使用データは削除されません。他のデバイスからこのデバイスの使用状況を見ることはできなくなりますが。"
+   },
+   "removeSitesAtAnyTime": {
+      "message": "許可されたサイトリストからサイトをいつでも削除できます。時間が切れていても構いません。"
+   },
+   "removeSitesDescription1": {
+      "message": "クリックして"
+   },
+   "removeSitesDescription2": {
+      "message": "リストからサイトを削除します。"
+   },
+   "requireChallenge": {
+      "message": "チャレンジを要求"
+   },
+   "requireChallengeDescription": {
+      "message": "このオプションを選択すると、設定を変更する前に難しいが不可能ではないチャレンジを完了する必要があります。これにより、設定を変更するのが不便になり、不正をする可能性が減少します。"
+   },
+   "requireChallengeTextHasBeenSet": {
+      "message": "チャレンジテキストが設定されました。"
+   },
+   "required": {
+      "message": "アクションが必要です"
+   },
+   "resetToDefault": {
+      "message": "デフォルトにリセット"
+   },
+   "reviewExtensionAsk": {
+      "message": "拡張機能を楽しんでいますか？"
+   },
+   "reviewExtensionPrompt": {
+      "message": "StayFocusdを評価する"
+   },
+   "saturday": {
+      "message": "土曜日"
+   },
+   "saveChanges": {
+      "message": "変更を保存"
+   },
+   "saveGroup": {
+      "message": "グループを保存"
+   },
+   "saveMessage": {
+      "message": "メッセージを保存"
+   },
+   "saveNotifications": {
+      "message": "通知を保存"
+   },
+   "scheduleCall": {
+      "message": "会議をスケジュール"
+   },
+   "search": {
+      "message": "検索"
+   },
+   "seconds": {
+      "message": "秒"
+   },
+   "selectAll": {
+      "message": "すべて選択"
+   },
+   "selectDateRange": {
+      "message": "日付範囲を選択"
+   },
+   "sessionCount": {
+      "message": "$1 セッション"
+   },
+   "sessions": {
+      "message": "セッション"
+   },
+   "set": {
+      "message": "設定"
+   },
+   "setCustomText": {
+      "message": "カスタムテキストを設定"
+   },
+   "setUpCall": {
+      "message": "または、私たちとチャットするための通話を設定してください。"
+   },
+   "settingICanBeMoreProductive": {
+      "message": "生産性を高めるための設定"
+   },
+   "settings": {
+      "message": "設定"
+   },
+   "settingsUpdated": {
+      "message": "設定が更新されました。"
+   },
+   "share": {
+      "message": "シェア"
+   },
+   "shareLimitAcrossDevices": {
+      "message": "デバイス間で制限を共有"
+   },
+   "shareLimitAcrossDevicesDescription": {
+      "message": "この制限は、すべてのペアリングされたデバイスでの使用を考慮します。"
+   },
+   "shared": {
+      "message": "共有"
+   },
+   "showAdCount": {
+      "message": "広告数を表示"
+   },
+   "showAdCountDescription": {
+      "message": "これらのブロックされたウェブサイトからの気晴らしの回数"
+   },
+   "showLabel": {
+      "message": "表示:"
+   },
+   "spentTimeOnBlockedSites": {
+      "message": "ブロックされたサイトで過ごした時間："
+   },
+   "start": {
+      "message": "開始"
+   },
+   "stayFreePairing": {
+      "message": "StayFreeとペアリング"
+   },
+   "stayFreePairingDescription": {
+      "message": "StayFocusd は今、$stayfree$ の一部です！",
+      "placeholders": {
+         "stayfree": {
+            "content": "\u003Cb>StayFreeファミリー\u003C/b>"
+         }
+      }
+   },
+   "stayFreePairingFeatures": {
+      "message": "StayFree と StayFocusd をモバイルやデスクトップで接続して、$features$ を利用しましょう。",
+      "placeholders": {
+         "features": {
+            "content": "\u003Cb>画面時間を同期し、クロスデバイスの使用制限を設定し、デジタル習慣をトラッキング—すべて1か所で\u003C/b>"
+         }
+      }
+   },
+   "stayfreePairingPromoDescription": {
+      "message": "モバイル端末やコンピューターに StayFree アプリを $stayfreeWebsite$ からインストールし、StayFocusd と連携してクロスデバイスの使用制限を設定し、画面時間を一元管理できます！",
+      "placeholders": {
+         "stayfreeWebsite": {
+            "content": "\u003Ca class=\"link link-primary\" target=\"_blank\" href=\"https://stayfreeapps.com?download&utm_source=stayfocusd_dialog\">StayFree ウェブサイト\u003C/a>"
+         }
+      }
+   },
+   "stayfreePairingPromoLearnMore": {
+      "message": "詳細を見る"
+   },
+   "stayfreePairingPromoTitle": {
+      "message": "StayFocusd は今 StayFree アプリと連携可能になりました！"
+   },
+   "submit": {
+      "message": "送信"
+   },
+   "success": {
+      "message": "成功"
+   },
+   "sunday": {
+      "message": "日曜日"
+   },
+   "supportId": {
+      "message": "サポートID"
+   },
+   "syncNow": {
+      "message": "今すぐ同期"
+   },
+   "syncOption": {
+      "message": "同期"
+   },
+   "syncOptionDescription": {
+      "message": "StayFocusdはデフォルトで、ブロックされたサイトと許可されたサイトをすべてのデバイス間でChrome Syncを介して同期します。この機能をオフにするには、以下のボックスをクリックしてください。"
+   },
+   "tellingYourMom": {
+      "message": "あなたのお母さんに言いますよ。"
+   },
+   "testMode": {
+      "message": "テストモード"
+   },
+   "theme": {
+      "message": "テーマ"
+   },
+   "theme_auto": {
+      "message": "ブラウザに従う"
+   },
+   "theme_dark": {
+      "message": "ダーク"
+   },
+   "theme_light": {
+      "message": "ライト"
+   },
+   "thisDevice": {
+      "message": "このデバイス"
+   },
+   "thursday": {
+      "message": "木曜日"
+   },
+   "time": {
+      "message": "時間"
+   },
+   "timeExpiredCannotChangeUntilTomorrow": {
+      "message": "今日の時間が切れました。明日までこれらの設定を変更できません。"
+   },
+   "timeExpiredForGroup": {
+      "message": "$groupName$の時間制限が今日で終了しました。明日までこのグループに変更を加えることはできません。ブロックされたサイトは削除できませんが、新しいブロックされたサイトをいつでも追加できます。",
+      "placeholders": {
+         "groupName": {
+            "content": "$1"
+         }
+      }
+   },
+   "timeLeft": {
+      "message": "残り時間"
+   },
+   "timeRemaining": {
+      "message": "残り時間"
+   },
+   "today": {
+      "message": "今日"
+   },
+   "todayOnly": {
+      "message": "今日のみ"
+   },
+   "tos": {
+      "message": "利用規約"
+   },
+   "tosHaveChanged": {
+      "message": "利用規約が変更されました。設定ページを開いて受け入れてください。"
+   },
+   "totalAllowedTime": {
+      "message": "合計許可時間"
+   },
+   "trackTabsPlayingAudio": {
+      "message": "オーディオ/ビデオを再生しているタブを追跡しますか？"
+   },
+   "trackTabsPlayingAudioDescription": {
+      "message": "デイリーユースでバックグラウンドでオーディオやビデオを再生しているタブを追跡します。"
+   },
+   "tuesday": {
+      "message": "火曜日"
+   },
+   "under18Message": {
+      "message": "18歳未満の場合でもStayFocusdを使用できます！一部の機能が利用できない場合があります。"
+   },
+   "unknownDeviceName": {
+      "message": "不明なデバイス"
+   },
+   "unlink": {
+      "message": "リンク解除"
+   },
+   "updateNoticesOption": {
+      "message": "StayFocusdの更新通知"
+   },
+   "updateNoticesOptionDescription": {
+      "message": "StayFocusdが更新されると、StayFocusdアイコンにNEWバッジが表示されます。アイコンをクリックすると、最新の更新情報が記載された新しいウィンドウが表示されます。これは非常にまれに発生します。"
+   },
+   "usageLastSynced": {
+      "message": "最後に同期された使用状況："
+   },
+   "usageTime": {
+      "message": "使用時間"
+   },
+   "usingWildcardRule1": {
+      "message": "ワイルドカードとして"
+   },
+   "usingWildcardRule2": {
+      "message": "先頭にアスタリスクを使用できます"
+   },
+   "usingWildcardRule3": {
+      "message": "（例：*.com はすべての .com サイトをブロックします、または *foo は \"foo\" という単語を含むすべてのドメインをブロックします）"
+   },
+   "visitCustomize1": {
+      "message": "訪れる"
+   },
+   "visitCustomize2": {
+      "message": "カスタマイズ"
+   },
+   "visitCustomize3": {
+      "message": "タブで非表示/表示の切り替えスイッチを表示します。"
+   },
+   "visitDuration": {
+      "message": "訪問時間"
+   },
+   "walkthrough_activeDaysAndHours": {
+      "message": "StayFocusdがブロックされたウェブサイトの時間をカウントダウンする曜日と時間を設定できます。"
+   },
+   "walkthrough_activeDaysAndHoursName": {
+      "message": "アクティブな日とアクティブな時間"
+   },
+   "walkthrough_allowedSites": {
+      "message": "許可されたサイトにリストされているウェブサイトやURLをここに追加して、最大許可時間にカウントされないようにし、1日の時間切れ後もブロックされないようにします。\u003Cbr /> \u003Cbr /> たとえば、youtube.comをブロックされたサイトとして追加すると、1日の時間切れ後にそのサイトを見るためにYouTubeのビデオURLを許可されたサイトとして追加できます。"
+   },
+   "walkthrough_blockedAllSites": {
+      "message": "有効にすると、（「許可されたサイト」にリストされていないものを除く）すべてのウェブサイトが1日の最大許可時間にカウントされます。"
+   },
+   "walkthrough_blockedSites": {
+      "message": "これは、時間を節約したいウェブサイトを追加する場所です。各ウェブサイトグループに、1日あたり許可される最大時間を割り当てます。1日の時間が終了すると、StayFocusdはそのグループのウェブサイトへのアクセスをブロックします。"
+   },
+   "walkthrough_nuclear": {
+      "message": "「核オプション」は、時間が切れるのを待たずにウェブサイトを即座にブロックする機能を提供します。これはStayFocusdが提供する最も極端なウェブサイトブロック方法であり、オフにすることはできません。\u003Cbr /> \u003Cbr /> 本当に集中して何かを成し遂げる必要があるときに使用してください。"
+   },
+   "walkthrough_nuclearSpecificTime": {
+      "message": "将来のある時点で「核オプション」を自動的に有効にするだけでなく、繰り返しスケジュールで自動的に有効にすることもできます。"
+   },
+   "walkthrough_requireChallenge": {
+      "message": "自分のルールを破るのを防ぎます。有効にすると、設定を変更する前に1つの間違いもせずに非常に長い段落を入力する必要があります。これにより、たとえば、許可される最大時間を増やしたり、ブロックされたサイトを削除したり、新しい許可されたサイトを追加することによる不正行為を防ぎます。"
+   },
+   "wantToHelpUsImproveStayFocusd": {
+      "message": "StayFocusdの改善を手伝いたいですか？以下の"
+   },
+   "wantToTestRequireChallenge": {
+      "message": "オンにする前にチャレンジをテストしたいですか？"
+   },
+   "wednesday": {
+      "message": "水曜日"
+   },
+   "whitelist": {
+      "message": "許可されたサイト"
+   },
+   "whitelistAddingSiteDescription": {
+      "message": "以下のテキストボックスに追加したいサイトを入力し、「許可されたサイトを追加」をクリックしてください。いくつかのヒント:"
+   },
+   "whitelistAddingSiteRule1": {
+      "message": "複数のサイトを許可するには、1行に1つ追加してください。"
+   },
+   "whitelistAddingSiteRule2": {
+      "message": "ワイルドカードとして先行するアスタリスクを使用できます（例: *.com はすべての.comサイトを許可し、*foo は「foo」という単語を含むすべてのドメインを許可します）"
+   },
+   "wildcardsPathsNotSupported": {
+      "message": "* ワイルドカードやWebパスの使用制限はStayfreeアプリではサポートされていません。"
+   },
+   "xAds": {
+      "message": "$1 広告"
+   },
+   "xSessions": {
+      "message": "$1 セッション"
+   },
+   "yesterday": {
+      "message": "昨日"
+   },
+   "youAreCurrentlyOn": {
+      "message": "現在、こちらにいます："
+   }
+}

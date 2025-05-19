@@ -1,0 +1,1 @@
+import{an as t,aE as o,av as n}from"./_virtual_wxt-plugins-DZjI-rY3.js";const r={viewBox:"0 0 24 24",width:"1.2em",height:"1.2em"};function a(s,e){return o(),t("svg",r,e[0]||(e[0]=[n("path",{fill:"currentColor",d:"M19 13h-6v6h-2v-6H5v-2h6V5h2v6h6z"},null,-1)]))}const h={name:"mdi-plus",render:a};export{h as P};

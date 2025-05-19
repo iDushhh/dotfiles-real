@@ -1,0 +1,48 @@
+2025/05/13-16:52:06.276 7cba Reusing MANIFEST /home/dust/.config/BraveSoftware/Brave-Browser/Default/IndexedDB/https_www.youtube.com_0.indexeddb.leveldb/MANIFEST-000001
+2025/05/13-16:52:06.276 7cba Recovering log #22
+2025/05/13-16:52:06.281 7cba Reusing old log /home/dust/.config/BraveSoftware/Brave-Browser/Default/IndexedDB/https_www.youtube.com_0.indexeddb.leveldb/000022.log 
+2025/05/13-16:52:06.982 7cba Level-0 table #27: started
+2025/05/13-16:52:06.988 7cba Level-0 table #27: 1657822 bytes OK
+2025/05/13-16:52:06.991 7cba Delete type=0 #22
+2025/05/13-16:52:16.315 7cba Compacting 1@1 + 1@2 files
+2025/05/13-16:52:16.318 7cba Generated table #28@1: 500 keys, 145458 bytes
+2025/05/13-16:52:16.318 7cba Compacted 1@1 + 1@2 files => 145458 bytes
+2025/05/13-16:52:16.320 7cba compacted to: files[ 0 0 1 0 0 0 0 ]
+2025/05/13-16:52:16.320 7cba Delete type=2 #27
+2025/05/13-16:52:16.320 7cba Delete type=2 #24
+2025/05/13-17:26:50.236 7cb8 Level-0 table #30: started
+2025/05/13-17:26:50.242 7cb8 Level-0 table #30: 1263413 bytes OK
+2025/05/13-17:26:50.245 7cb8 Delete type=0 #26
+2025/05/13-17:26:55.737 7cb9 Compacting 1@1 + 1@2 files
+2025/05/13-17:26:55.740 7cb9 Generated table #31@1: 521 keys, 118516 bytes
+2025/05/13-17:26:55.740 7cb9 Compacted 1@1 + 1@2 files => 118516 bytes
+2025/05/13-17:26:55.742 7cb9 compacted to: files[ 0 0 1 0 0 0 0 ]
+2025/05/13-17:26:55.743 7cb9 Delete type=2 #28
+2025/05/13-17:26:55.743 7cb9 Delete type=2 #30
+2025/05/13-21:18:48.309 7cb9 Level-0 table #33: started
+2025/05/13-21:18:48.315 7cb9 Level-0 table #33: 1729633 bytes OK
+2025/05/13-21:18:48.317 7cb9 Delete type=0 #29
+2025/05/13-21:27:42.890 7cb9 Compacting 1@1 + 1@2 files
+2025/05/13-21:27:42.890 7cb9 Level-0 table #36: started
+2025/05/13-21:27:42.892 7cb9 Level-0 table #36: 65350 bytes OK
+2025/05/13-21:27:42.894 7cb9 Delete type=0 #32
+2025/05/13-21:27:42.897 7cb9 Generated table #34@1: 527 keys, 117143 bytes
+2025/05/13-21:27:42.897 7cb9 Compacted 1@1 + 1@2 files => 117143 bytes
+2025/05/13-21:27:42.900 7cb9 compacted to: files[ 1 0 1 0 0 0 0 ]
+2025/05/13-21:27:42.900 7cb9 Delete type=2 #31
+2025/05/13-21:27:42.900 7cb9 Delete type=2 #33
+2025/05/13-21:27:42.900 7cb9 Manual compaction at level-0 from (begin) .. (end); will stop at '\x00\x14\x01\x1f\x03\xcd\xf4\xbey\xbblyB\x00\x01\x17\x00y\x00t\x00-\x00r\x00e\x00d\x00i\x00r\x00e\x00c\x00t\x00-\x00p\x00r\x00e\x00f\x00e\x00t\x00c\x00h\x00-\x00i\x00d' @ 14893 : 0
+2025/05/13-21:27:42.900 7cb9 Compacting 1@0 + 0@1 files
+2025/05/13-21:27:42.901 7cb9 Generated table #37@0: 86 keys, 14088 bytes
+2025/05/13-21:27:42.901 7cb9 Compacted 1@0 + 0@1 files => 14088 bytes
+2025/05/13-21:27:42.903 7cb9 compacted to: files[ 0 1 1 0 0 0 0 ]
+2025/05/13-21:27:42.903 7cb9 Delete type=2 #36
+2025/05/13-21:27:42.903 7cb9 Manual compaction at level-0 from '\x00\x14\x01\x1f\x03\xcd\xf4\xbey\xbblyB\x00\x01\x17\x00y\x00t\x00-\x00r\x00e\x00d\x00i\x00r\x00e\x00c\x00t\x00-\x00p\x00r\x00e\x00f\x00e\x00t\x00c\x00h\x00-\x00i\x00d' @ 14893 : 0 .. (end); will stop at (end)
+2025/05/13-21:27:42.903 7cb9 Manual compaction at level-1 from (begin) .. (end); will stop at '\x00\x14\x01\x1f\x03\xcd\xf4\xbey\xbblyB\x00\x01\x17\x00y\x00t\x00-\x00r\x00e\x00d\x00i\x00r\x00e\x00c\x00t\x00-\x00p\x00r\x00e\x00f\x00e\x00t\x00c\x00h\x00-\x00i\x00d' @ 14893 : 0
+2025/05/13-21:27:42.903 7cb9 Compacting 1@1 + 1@2 files
+2025/05/13-21:27:42.905 7cb9 Generated table #38@1: 514 keys, 118032 bytes
+2025/05/13-21:27:42.905 7cb9 Compacted 1@1 + 1@2 files => 118032 bytes
+2025/05/13-21:27:42.907 7cb9 compacted to: files[ 0 0 1 0 0 0 0 ]
+2025/05/13-21:27:42.907 7cb9 Delete type=2 #34
+2025/05/13-21:27:42.907 7cb9 Delete type=2 #37
+2025/05/13-21:27:42.907 7cb9 Manual compaction at level-1 from '\x00\x14\x01\x1f\x03\xcd\xf4\xbey\xbblyB\x00\x01\x17\x00y\x00t\x00-\x00r\x00e\x00d\x00i\x00r\x00e\x00c\x00t\x00-\x00p\x00r\x00e\x00f\x00e\x00t\x00c\x00h\x00-\x00i\x00d' @ 14893 : 0 .. (end); will stop at (end)

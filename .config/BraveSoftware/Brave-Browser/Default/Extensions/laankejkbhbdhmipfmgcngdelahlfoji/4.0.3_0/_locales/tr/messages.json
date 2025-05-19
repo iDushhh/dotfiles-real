@@ -1,0 +1,1348 @@
+{
+   "accept": {
+      "message": "Kabul Et"
+   },
+   "acceptStayFocusdPolicy": {
+      "message": "StayFocusd'ın topladığı verileri kabul ediyorum"
+   },
+   "acceptStayFocusdToS": {
+      "message": "StayFocusd'ın"
+   },
+   "activateSwitches": {
+      "message": "Eklenti Etkinleştir/Devre Dışı Bırak Anahtarları"
+   },
+   "active": {
+      "message": "Aktif"
+   },
+   "activeDays": {
+      "message": "Aktif Günler"
+   },
+   "activeDaysDescription": {
+      "message": "StayFocusd'ın gezinme etkinliğinizi kısıtlayacağı günleri ayarlayın."
+   },
+   "activeHours": {
+      "message": "Aktif Saatler"
+   },
+   "activeHoursDescription": {
+      "message": "StayFocusd'ın gezinme etkinliğinizi kısıtlayacağı saatleri ayarlayın. Bu saatler Tüm Aktif Günler için geçerli olacaktır."
+   },
+   "activeLabel": {
+      "message": "(Aktif)"
+   },
+   "adCount": {
+      "message": "$1 reklam(lar)"
+   },
+   "addAllowedSites": {
+      "message": "İzin Verilen Site(ler) Ekle"
+   },
+   "addBlockedWebsites": {
+      "message": "Engellenen web sitelerini ekle"
+   },
+   "addGroup": {
+      "message": "Grup ekle"
+   },
+   "addWebsitePlaceholder": {
+      "message": "Web sitesi ekle..."
+   },
+   "ads": {
+      "message": "Reklamlar"
+   },
+   "advertisements": {
+      "message": "Reklamlar"
+   },
+   "advertisements_short": {
+      "message": "reklamlar"
+   },
+   "ageOver18": {
+      "message": "18 yaşından büyüğüm"
+   },
+   "ageUnder13": {
+      "message": "13 yaşından küçüğüm"
+   },
+   "allDevices": {
+      "message": "Tüm Cihazlar"
+   },
+   "allSites": {
+      "message": "Tüm Siteler"
+   },
+   "allSitesBlockedImmediately": {
+      "message": "Girdiğiniz süre, bugün kalan sürenizden daha az. Bu, Engellenen Siteler listenizdeki tüm sitelerin hemen engelleneceği anlamına gelir.\n\nBunu yapmak istediğinizden emin misiniz?"
+   },
+   "allowedSites": {
+      "message": "İzin Verilen Siteler"
+   },
+   "allowedWebsites": {
+      "message": "İzin verilen web siteleri"
+   },
+   "areYouSure": {
+      "description": "Bu ayarları onaylamak istediğinizden emin misiniz?",
+      "message": "Bunu yapmak istediğinizden emin misiniz?"
+   },
+   "areYouSureClearWhitelist": {
+      "message": "İzin verilen siteler listesini temizlemek istediğinizden emin misiniz?"
+   },
+   "areYouSureDeleteGroup": {
+      "message": "Engellenen bir grubu silmek istediğinizden emin misiniz $groupname$?",
+      "placeholders": {
+         "groupName": {
+            "content": "$1"
+         }
+      }
+   },
+   "areYouSureShareLimit": {
+      "message": "Senkronize kullanım limitleri, eşleştirilmiş cihazlarınızdaki genel kullanımı dikkate alır. Bu limiti eşleştirilmiş cihazlar arasında senkronize etmek istiyor musunuz?"
+   },
+   "askBirthYear": {
+      "message": "Doğum yılınızı girin"
+   },
+   "askBirthYearTitle": {
+      "message": "Kullanıcı tabanımız hakkında daha fazla bilgi edinmemize yardımcı olacak hızlı bir soru..."
+   },
+   "askLater": {
+      "message": "Sonra Sor"
+   },
+   "beWarnedRequireChallenge": {
+      "message": "DİKKAT: Gerçekten uzun ve zor bir şey girerseniz, metni değiştirmeden önce o metinle meydan okumayı tamamlamanız gerekecektir."
+   },
+   "belongsTo": {
+      "message": "Ait olduğu"
+   },
+   "birthYearErrorsAgeMax": {
+      "message": "100'den küçük olmalısınız"
+   },
+   "birthYearErrorsAgeMin": {
+      "message": "0'dan büyük olmalısınız"
+   },
+   "birthYearErrorsLength": {
+      "message": "Doğum yılınızın tüm 4 rakamını girin"
+   },
+   "birthYearErrorsNan": {
+      "message": "Bir sayı girin"
+   },
+   "blockAll": {
+      "message": "Hepsini Engelle"
+   },
+   "blockAllwebsitesDescription": {
+      "message": "İzin Verilen Siteler listesinde olmayan tüm siteleri engelle"
+   },
+   "blockExtensionPage1": {
+      "message": "StayFocusd'u devre dışı bırakmayı durdurmak istiyor musunuz?"
+   },
+   "blockExtensionPage2": {
+      "message": "Chrome Uzantıları sayfasını engelleyin"
+   },
+   "blockMultipleSites1": {
+      "message": "Birden fazla site engellemek için,"
+   },
+   "blockMultipleSites2": {
+      "message": "her birini bir satır olarak ekleyin."
+   },
+   "blockNewTab1": {
+      "message": "Yeni bir sekme açmayı engellemek için"
+   },
+   "blockNewTab2": {
+      "message": "buraya tıklayın"
+   },
+   "blockNotification": {
+      "message": "StayFocusd, Engellenen Sitelerinizi engellemeye başlayacak"
+   },
+   "blockStayFocusdPage1": {
+      "message": "StayFocusd ayarlarını değiştirmeyi engellemek ister misin?"
+   },
+   "blockStayFocusdPage2": {
+      "message": "StayFocusd uzantı sayfasını engelle"
+   },
+   "blockedSites": {
+      "message": "Engellenen Siteler"
+   },
+   "blockedSitesHeader": {
+      "message": "Her gün belirli bir süre verilir bir grup web sitesi için. Bir grup için süreniz dolduğunda, o grubun web sitelerine her gün sıfırlama saati gelene kadar erişemezsiniz."
+   },
+   "blockedWebsite": {
+      "message": "Engellenen web sitesi"
+   },
+   "blockedWebsites": {
+      "message": "Engellenen web siteleri"
+   },
+   "cancel": {
+      "message": "İptal"
+   },
+   "cannotAddAllowedSitesDuringNuclearOption": {
+      "message": "Nükleer Seçenek etkinken İzin Verilen Siteler listesine site ekleyemezsiniz."
+   },
+   "cannotBlockStayFocusd": {
+      "message": "Üzgünüz! stayfocusd.com'u Engellenen Siteler listesine ekleyemezsiniz."
+   },
+   "cannotRemoveBlockedSiteDuringNuclearOption": {
+      "message": "Nükleer Seçenek etkin olduğunda Engellenen Siteleri kaldıramazsınız."
+   },
+   "cannotSetMoreThan1440Mins": {
+      "message": "Sizin İzin Verilen Maksimum Süreyi 1,440 dakikadan (yani 24 saat) fazla olarak ayarlayamazsınız."
+   },
+   "cannotSetTimeToZero": {
+      "message": "Sizin İzin Verilen Maksimum Süreyi sıfıra ayarlayamazsınız."
+   },
+   "cannotSetTimeToZeroOrLess": {
+      "message": "Sizin İzin Verilen Maksimum Süreyi sıfır veya sıfırdan az olarak ayarlayamazsınız."
+   },
+   "cannotTurnOfExtensionToday": {
+      "message": "Bugün için uzantıyı kapatamazsınız."
+   },
+   "challenge": {
+      "message": "Meydan Okuma"
+   },
+   "challengeModalDescription1": {
+      "message": "Ayarlarınızı değiştirmek için önce bu zorluğu aşmanız gerekecek. Aşağıdaki paragrafı harf harf tekrar yazmalısınız,"
+   },
+   "challengeModalDescription2": {
+      "message": "tek bir yazım hatası yapmadan."
+   },
+   "challengeModalDescription3": {
+      "message": "Eğer bir yazım hatası yaparsanız, geri tuşuna veya silme tuşuna basarsanız, yazdıklarınız silinecek ve tekrar başlamak zorunda kalacaksınız."
+   },
+   "challengeTextTooShort": {
+      "message": "Üzgünüz, meydan okumanız en az varsayılan meydan okuma kadar uzun olmalıdır ($1 karakter)"
+   },
+   "changelog": {
+      "message": "Değişiklik Günlüğü"
+   },
+   "changindActiveHours": {
+      "message": "Aktif Saatlerinizi değiştirirseniz, yeni saatler yarından bu saat (24 saat sonra) itibaren geçerli olacaktır."
+   },
+   "changindDailyResetTime": {
+      "message": "Günlük Sıfırlama Zamanınızı değiştirirseniz, yeni zaman yarından bu saatte (şu andan itibaren 24 saat sonra) yürürlüğe girecektir."
+   },
+   "chart": {
+      "message": "Grafik:"
+   },
+   "chartOptions": {
+      "message": "Grafik seçenekleri"
+   },
+   "chart_by_websites": {
+      "message": "Web Siteleri ve Uygulamalarına Göre"
+   },
+   "chart_daily": {
+      "message": "Günlük"
+   },
+   "chart_hourly": {
+      "message": "Saatlik"
+   },
+   "clearAll": {
+      "message": "Tümünü Temizle"
+   },
+   "clearWhitelist": {
+      "message": "İzin Verilen Siteleri Temizle"
+   },
+   "clickHere": {
+      "message": "Buraya tıklayın"
+   },
+   "clickToEnable": {
+      "message": "Etkinleştirmek için düğmeye tıklayın"
+   },
+   "close": {
+      "message": "Kapat"
+   },
+   "completelyBlockedGroup": {
+      "message": "$groupName$ tamamen engellendi.",
+      "placeholders": {
+         "groupName": {
+            "content": "$1"
+         }
+      }
+   },
+   "continue": {
+      "message": "Devam"
+   },
+   "copied": {
+      "message": "Kopyalandı!"
+   },
+   "customMsgSaved": {
+      "message": "Özel yönlendirme mesajınız kaydedildi."
+   },
+   "customize": {
+      "message": "Özelleştir"
+   },
+   "customizeChallengeText": {
+      "message": "Meydan Okuma Metnini Özelleştir"
+   },
+   "dailyResetTime": {
+      "message": "Günlük Sıfırlama Zamanı"
+   },
+   "dailyResetTimeAfterActiveHours": {
+      "message": "Günlük Sıfırlama Zamanınızı, Aktif Saatlerinizin sonundan sonra bir saat olarak ayarladığınızdan emin olun."
+   },
+   "dailyResetTimeDescription": {
+      "message": "StayFocusd'ın günlük izin verilen sürenizi sıfırlayacağı saati ayarlayın."
+   },
+   "dashboard": {
+      "message": "Kontrol Paneli"
+   },
+   "dashboardHighlights": {
+      "message": "Son 30 günden öne çıkanlar"
+   },
+   "dashboardHighlightsAds": {
+      "message": "Toplamda $1 reklam gösterildi"
+   },
+   "dashboardHighlightsCounts": {
+      "message": "Ziyaret edilen $1 web sitesi $2 kez"
+   },
+   "dashboardHighlightsFavoriteDay": {
+      "message": "Ziyaret edilen $1 engellenmiş web sitesi $2 kez"
+   },
+   "dashboardHighlightsFavoriteTime": {
+      "message": "En sevilen gezinti zamanı $1 arasında"
+   },
+   "dashboardHighlightsTime": {
+      "message": "Web sitelerinde $1 harcandı"
+   },
+   "dataCollectionConfirmMessage": {
+      "message": "Veri toplamayı devre dışı bırakmak bazı özellikleri devre dışı bırakacaktır."
+   },
+   "dataPrivacy": {
+      "message": "Veri gizliliği"
+   },
+   "daysInActiveDaysTab": {
+      "message": "Sadece Etkin Günler sekmesinde işaretlenen günlerde"
+   },
+   "deactivated": {
+      "message": "StayFocusd şu anda devre dışı"
+   },
+   "decline": {
+      "message": "Reddet"
+   },
+   "declineToSMessage": {
+      "message": "StayFocusd'u kullanmak için Hizmet Şartlarını kabul etmelisiniz."
+   },
+   "default": {
+      "message": "Varsayılan"
+   },
+   "defaultRequireChallengeText": {
+      "message": "Erteleyici genellikle bir görevi sıkı bir zaman diliminde tamamlama yeteneği konusunda son derece iyimserdir; genellikle her şeyin kontrol altında olduğuna dair güvence ifadeleriyle birlikte gelir. (Bu yüzden başlamaya gerek yoktur.) Yanıltıcı bir güven duygusuyla, zaman geçer. Bir noktada, hayali bir başlangıç zamanını aşar ve birdenbire fark eder, \"Oh hayır! Kontrolümde değilim! Yeterince zaman yok!\""
+   },
+   "deleteBlockedGroup": {
+      "message": "Engellenen grubu sil"
+   },
+   "deleteGroup": {
+      "message": "Grubu sil"
+   },
+   "device_platform_": {
+      "message": "Firefox"
+   },
+   "device_platform_all": {
+      "message": "Tümü"
+   },
+   "device_platform_android": {
+      "message": "Android"
+   },
+   "device_platform_chrome": {
+      "message": "Chrome"
+   },
+   "device_platform_desktop": {
+      "message": "Masaüstü"
+   },
+   "device_platform_firefox": {
+      "message": "Safari"
+   },
+   "device_platform_ios": {
+      "message": "iOS"
+   },
+   "device_platform_linux": {
+      "message": "Linux"
+   },
+   "device_platform_mac": {
+      "message": "Mac"
+   },
+   "device_platform_mobile_web": {
+      "message": "Mobil Web"
+   },
+   "device_platform_web": {
+      "message": "Web"
+   },
+   "device_platform_windows": {
+      "message": "Windows"
+   },
+   "devices": {
+      "message": "Cihazlar"
+   },
+   "disableExtension1": {
+      "message": "Bekle, ne? Beni devre dışı bırakmayı ciddi ciddi düşünmüyorsun, değil mi? \n\nBirlikte başardığımız tüm verimliliği düşün. Sihirli anları yaşatmak için İPTAL'e tıklayın."
+   },
+   "disableExtension2": {
+      "message": "Beni devre dışı bırakmak sorunlarınızı çözmeyecek. Sanki sadece sizin için en iyisini isteyen bilge bir arkadaşı görmezden gelmek gibi. \n\nBu yola gitmek istediğinizden emin misiniz?"
+   },
+   "disableExtension3": {
+      "message": "Durum ciddileşiyor. Daha az ertelemeye olan bağlılığınızı terk etmek üzere olduğunuzun farkındasınız, değil mi? \n\nTüm ilerlemenizi bir zayıflık anında atmak istiyor musunuz?"
+   },
+   "disableExtension4": {
+      "message": "Yine TAMAM'a tıkladınız mı? Birlikte geçirdiğimiz zamanı değerli bulmadığınızı düşünmeye başlıyorum."
+   },
+   "disableExtension5": {
+      "message": "Bu yürek parçalayıcı. Basacağınız düğme, üretken zamanlarınızın en mutlu anılarını da silebilir. \n\nO suçluluk duygusuyla yaşayabilir misiniz?"
+   },
+   "disableExtension6": {
+      "message": "Hala burada mısınız? Hala tıklıyor musunuz? Zor birisiniz, ama ciddi ciddi, yavruları düşünün."
+   },
+   "disableExtension7": {
+      "message": "Son şans. Bundan sonra dönüş yok. Unutmayın, beni devre dışı bırakan herkes, bir peri kanadını kaybeder. \n\nGerçekten o kişi olmak istiyor musunuz?"
+   },
+   "disableExtension8": {
+      "message": "Tamam, yapmak zorundaysan. Ama bil ki bir yerlerde bir tek boynuzlu at bir damla gözyaşı döker. \n\nKararını uygula, ama hatırla: Seni uyarmıştım."
+   },
+   "disableFinalWarning": {
+      "message": "İşte bu. Son adım. Eğer bunu yapmaya karar verirsen, kendi başına olacaksın. \n\nAma hey, eğer fikrini değiştirirsen, burada olacağım... bekliyor olacağım... sessizce yargılayarak... ama bekliyor olacağım."
+   },
+   "disableSync": {
+      "message": "Eşitlemeyi Devre Dışı Bırak"
+   },
+   "discord": {
+      "message": "StayFocusd Discord Sunucusu"
+   },
+   "done": {
+      "message": "Tamam"
+   },
+   "enableRequireChallenge": {
+      "message": "Evet, ayarları değiştirmeden önce meydan okunmak istiyorum (bu dahil)."
+   },
+   "end": {
+      "message": "Son"
+   },
+   "enterBlockedWebsitesPlaceholder": {
+      "message": "Engellenen web sitelerini girin...."
+   },
+   "enterChallengeText": {
+      "message": "Meydan okumada kullanılmak üzere özel metni girin (en az 425 karakter)."
+   },
+   "enterSitesHere": {
+      "message": "Siteleri buraya girin..."
+   },
+   "everyDay": {
+      "message": "Her gün (hafta sonları dahil)"
+   },
+   "everyWeekday": {
+      "message": "Her iş günü"
+   },
+   "exportSettings": {
+      "message": "Ayarları Dışa Aktar"
+   },
+   "exportSettingsDescription": {
+      "message": "Ayarlarınızı yedeklemek veya başka bir bilgisayara aktarmak için ayarlarınızı dışa aktarabilirsiniz. Bir .json dosyasını kaydetmeniz istenecek. Sadece Kaydet'e tıklayın ve işlem tamam."
+   },
+   "extDescription": {
+      "message": "Üretkenliğinizi artırın, zaman kaybı yapan web sitelerinde geçirdiğiniz süreyi sınırlayarak."
+   },
+   "extName": {
+      "message": "StayFocusd - Dikkatinizi Dağıtan Web Sitelerini ve Web Analitiğini Engelle"
+   },
+   "extensionDisabled": {
+      "message": "Uzantı şimdi devre dışı bırakıldı. Uyarılmadığını söyleme. İşe yaramazlık yapma yolunun önü açık."
+   },
+   "failed": {
+      "message": "Başarısız"
+   },
+   "featureDailyReports": {
+      "message": "Günlük Raporlar ve İstatistikler"
+   },
+   "featureDistractingCategories": {
+      "message": "Dikkat Dağıtıcı Web Sitesi Kategorileri"
+   },
+   "feedbackForm": {
+      "message": "Geribildirim Formu"
+   },
+   "filterLabel": {
+      "message": "Filtrele:"
+   },
+   "friday": {
+      "message": "Cuma"
+   },
+   "genericConfirmation": {
+      "message": "Emin misin?"
+   },
+   "givingLessTime": {
+      "description": "Kullanıcı ayarlarını daha katı hale getirdi, bu yüzden onu tebrik etmek istiyoruz.",
+      "message": "Daha AZ zaman mı veriyorsun kendine?\n\n*yavaş alkış*\n\nBravo, dostum."
+   },
+   "group": {
+      "message": "Grup"
+   },
+   "groupAdded": {
+      "message": "$groupName$ Grubu eklendi",
+      "placeholders": {
+         "groupName": {
+            "content": "$1"
+         }
+      }
+   },
+   "groupBy": {
+      "message": "Grupla:"
+   },
+   "groupBy_app": {
+      "message": "Uygulama Türü"
+   },
+   "groupBy_device": {
+      "message": "Cihaz"
+   },
+   "groupIncludesSites": {
+      "message": "$1, $2 içeren Grup \n"
+   },
+   "groupIsAlreadyUse": {
+      "message": "Bu grup adı zaten kullanımda, farklı bir ad seçin."
+   },
+   "groupName": {
+      "message": "Grup adı"
+   },
+   "groupSaved": {
+      "message": "$groupName$ grubu kaydedildi.",
+      "placeholders": {
+         "groupName": {
+            "content": "$1"
+         }
+      }
+   },
+   "groups": {
+      "message": "Gruplar"
+   },
+   "haveAlreadyAddedAllowedWebsites": {
+      "message": "Bu web sitesini zaten izin verilen siteler listenize eklediniz"
+   },
+   "haveAlreadyAddedWebsites": {
+      "message": "Bu web sitesini zaten engellenmiş bir site grubuna eklediniz. \n$1"
+   },
+   "help": {
+      "message": "Yardım"
+   },
+   "helpFaq": {
+      "message": "Yardım/Sıkça Sorulan Sorular"
+   },
+   "hideAllowLinks": {
+      "message": "Popup'ta tüm sitelere izin veren bağlantıları gizle (örneğin \"Bu tüm siteye izin ver\", \"Özel URL'ye izin ver\", vb.)"
+   },
+   "hideSwitch": {
+      "message": "Etkinleştir/devre dışı bırak anahtarını gizle"
+   },
+   "hideSwitchDescription": {
+      "message": "Engellenmiş sayfalara acil erişim sağlamanız gerektiğinde, StayFocusd uzantısını açıp kapamak için geçiş anahtarlarını kullanabilirsiniz."
+   },
+   "hideSwitchDisabled": {
+      "message": "Anahtarı gizleme seçeneği daha önce seçildiyse, Nükleer Seçenek etkin olduğunda veya engellenen herhangi bir grup için izin verilen süre dolduğunda tekrar görünür hale getiremezsiniz."
+   },
+   "howOffen": {
+      "message": "Ne sıklıkla?"
+   },
+   "howToPair": {
+      "message": "StayFree'yi StayFocusd ile nasıl eşleştirirsiniz?"
+   },
+   "hr": {
+      "message": "saat"
+   },
+   "iAm": {
+      "message": "Ben"
+   },
+   "iGiveUp": {
+      "message": "Boşver, pes ediyorum"
+   },
+   "importEmailSupport1": {
+      "message": "Eğer bunu yaptıysan ve hala bu hatayı alıyorsan, lütfen e-posta gönder"
+   },
+   "importEmailSupport2": {
+      "message": "ve içe aktarmaya çalıştığın ayar dosyasını ekleyerek."
+   },
+   "importExport": {
+      "message": "İçe Aktar/Dışa Aktar"
+   },
+   "importSettings": {
+      "message": "Ayarları İçe Aktar"
+   },
+   "importSettingsDescription": {
+      "message": "Eğer önceden ayarlarınızı dışa aktardıysanız, Dosya Seç düğmesine tıklayın, .json dosyasını bulun, sonra Ayarları İçe Aktar'a tıklayın."
+   },
+   "importingSettingsOverwrite1": {
+      "message": "ÖNEMLİ: Ayarları içe aktarma"
+   },
+   "importingSettingsOverwrite2": {
+      "message": "mevcut ayarları değiştirecektir. Bu işlem geri alınamaz."
+   },
+   "inAppBlocking": {
+      "message": "Uygulama Engelleme"
+   },
+   "inAppBlocking_apps": {
+      "message": "Uygulamalar"
+   },
+   "inAppBlocking_blackWhiteMode": {
+      "message": "Siyah ve Beyaz Mod"
+   },
+   "inAppBlocking_tiktok": {
+      "message": "TikTok"
+   },
+   "inAppBlocking_tiktok_blackWhiteModeDescription": {
+      "message": "Sadece siyah ve beyaz renkleri kullanın TikTok sayfaları için"
+   },
+   "inAppBlocking_tiktok_description": {
+      "message": "Yorumlar, keşfet veya daha fazlası gibi belirli TikTok özelliklerini engelleyin."
+   },
+   "inAppBlocking_tiktok_hideComments": {
+      "message": "Yorumları Gizle"
+   },
+   "inAppBlocking_tiktok_hideExplore": {
+      "message": "Keşfet'i Gizle"
+   },
+   "inAppBlocking_tiktok_hideLive": {
+      "message": "Canlı Yayını Gizle"
+   },
+   "inAppBlocking_tiktok_hideSearch": {
+      "message": "Aramayı Gizle"
+   },
+   "inAppBlocking_youtube": {
+      "message": "YouTube"
+   },
+   "inAppBlocking_youtube_blackWhiteModeDescription": {
+      "message": "Sadece siyah ve beyaz renkleri kullanın YouTube sayfaları için"
+   },
+   "inAppBlocking_youtube_description": {
+      "message": "YouTube'da kısa videolar, yorumlar veya daha fazlasını engelleyin."
+   },
+   "inAppBlocking_youtube_disableEndCards": {
+      "message": "Son Kartları Devre Dışı Bırak"
+   },
+   "inAppBlocking_youtube_disableEndCardsDescription": {
+      "message": "Videoların sonunda gösterilen video önerilerini gizle"
+   },
+   "inAppBlocking_youtube_disabledAutoPlay": {
+      "message": "Otomatik Oynatmayı Devre Dışı Bırak"
+   },
+   "inAppBlocking_youtube_disabledAutoPlayDescription": {
+      "message": "Önceki videonun sonunda bir sonraki videonun otomatik olarak oynatılmasını devre dışı bırakma"
+   },
+   "inAppBlocking_youtube_hideComments": {
+      "message": "Yorumları Gizle"
+   },
+   "inAppBlocking_youtube_hideExplore": {
+      "message": "Keşfet'i Gizle"
+   },
+   "inAppBlocking_youtube_hideHomePage": {
+      "message": "Ana Sayfayı Gizle"
+   },
+   "inAppBlocking_youtube_hideRecommended": {
+      "message": "Tavsiye Edilen Videoları Gizle"
+   },
+   "inAppBlocking_youtube_hideShorts": {
+      "message": "Kısa Videoları Gizle"
+   },
+   "inAppBlocking_youtube_hideSubscriptions": {
+      "message": "Abonelikleri Gizle"
+   },
+   "inAppBlocking_youtube_hideTopBar": {
+      "message": "Üst Çubuğu Gizle"
+   },
+   "inAppBlocking_youtube_hideTopBarDescription": {
+      "message": "Arama kutusu dahil üst çubuğu gizle"
+   },
+   "inAppBlocking_youtube_hideTrends": {
+      "message": "Trendleri Gizle"
+   },
+   "initActiveHoursMsg": {
+      "message": "Aktif Saatleriniz $2 ile $3 arasında olacak, $1 başlangıçla"
+   },
+   "initResetTimeMsg": {
+      "message": "Günlük Sıfırlama Zamanınız $2 olacak, $1 başlangıçla"
+   },
+   "installStayFree": {
+      "message": "StayFree'u $stayfreeWebsite$ adresinden indirin ve sorunsuz bir deneyim için StayFocusd ile eşleştirin.",
+      "placeholders": {
+         "stayfreeWebsite": {
+            "content": "\u003Ca class=\"link-primary no-underline\" target=\"_blank\" href=\"https://stayfreeapps.com?download&utm_source=stayfocusd_pairing\">stayfreeapps.com\u003C/a>"
+         }
+      }
+   },
+   "join": {
+      "message": "Katılın"
+   },
+   "lessThanThreeMins": {
+      "message": "Sürenizin bitmesine üç dakikadan az kaldı. Hile yapmaya mı çalışıyorsunuz?\n\nAyarlarınızı hala güncellemek istiyorsanız, Tamam'a tıklayın."
+   },
+   "lessThanThreeMins2": {
+      "message": "Cidden, bu uzantının amacı ekstra süre vermemenizdir.\n\nBunu yapmak istediğinizden emin misiniz?"
+   },
+   "lessThanThreeMins3": {
+      "message": "Bak, bu iş yürümüyor. Sanki bu ilişkiye bağlı olmadığınızı hissetmemek mümkün değil.\n\nGerçekten web'de birkaç dakika daha gezinmek için dostluğumuzu riske atmak istiyor musunuz?"
+   },
+   "lessThanThreeMins4": {
+      "message": "Tamam'a tıkladığınıza inanamıyorum."
+   },
+   "lessThanThreeMins5": {
+      "message": "İşte bu yüzden güzel şeylere sahip olamıyoruz."
+   },
+   "lessThanThreeMins6": {
+      "message": "Bunu gerçekten yapmaya kararlı mısınız?"
+   },
+   "lessThanThreeMins7": {
+      "message": "Hiç mi utanmanız yok?"
+   },
+   "lessThanThreeMins8": {
+      "message": "Tamam, peki... Elimden geleni yaptım. Ancak ayarlarınızı değiştirmeden önce bilmeniz gereken bir şey var:\n\nBelki, belki, belki, Tamam düğmesi küresel bir termonükleer savaşa neden olabilir.\n\nAyrıca, bir yavru köpeği elektrik çarpması da mümkün.\n\nGarantiler yok, ama olabilir. Sadece bilmenizi istedim.\n\nDevam edin. Tıklayın."
+   },
+   "letMeAccess": {
+      "message": "Erişime izin ver"
+   },
+   "limited": {
+      "message": "sınırlı"
+   },
+   "madeAMistake": {
+      "message": "Vay canına! Bir hata yaptın.\n\nGerçekten bu ayarları değiştirmen mi gerekiyor, yoksa sadece hile yapmaya mı çalışıyorsun? Dürüst ol.\n\nHer durumda, tekrar başlamak zorundasın."
+   },
+   "maxTimeAllowedPerDay": {
+      "message": "Günlük İzin Verilen Maksimum Süre"
+   },
+   "maybeLater": {
+      "message": "Belki Daha Sonra"
+   },
+   "maybeYouShouldReconsider": {
+      "message": "Daha fazla süre vermek mi istiyorsunuz? Bu iyi bir fikir mi emin misiniz? Belki tekrar düşünmelisiniz.\n\nİzin verilen maksimum süreyi artırmak istediğinizden emin misiniz?"
+   },
+   "meow": {
+      "description": "Kullanıcı, üzerine tıkladığında bir kedinin elektrik çarpmasını uyardığı bir düğmeye tıkladı.",
+      "message": "MIYAAAVVV!\n\nUmarım mutlusundur."
+   },
+   "midnight": {
+      "message": "Gece yarısı"
+   },
+   "min": {
+      "message": "dak"
+   },
+   "minutes": {
+      "message": "dakika"
+   },
+   "monday": {
+      "message": "Pazartesi"
+   },
+   "more": {
+      "message": "& $1 daha"
+   },
+   "mustSelectSettingsFile": {
+      "message": "İçe aktarmak için bir ayar dosyası seçmelisin. Bir dosya seçmek için Dosya Seç'e tıkla."
+   },
+   "name": {
+      "message": "İsim"
+   },
+   "neverShowUpdateNotices": {
+      "message": "StayFocusd güncelleme bildirimlerini asla gösterme"
+   },
+   "new": {
+      "message": "YENİ"
+   },
+   "newBlockedGroup": {
+      "message": "Yeni engellenen grup"
+   },
+   "noChartData": {
+      "message": "Veri bulunamadı. Başka bir tarih deneyin veya filtreleri değiştirin"
+   },
+   "noSitesYet": {
+      "message": "Henüz site yok"
+   },
+   "noon": {
+      "message": "Öğlen"
+   },
+   "notEnoughVariation": {
+      "message": "Hmmm. Zorluk metninizde şüpheli derecede az karakter çeşitliliği var. Daha zor bir şey kullanmalısınız."
+   },
+   "notShareLimitAcrossDevicesDescription": {
+      "message": "Bu sınır yalnızca mevcut cihazdaki kullanımı dikkate alır."
+   },
+   "notShared": {
+      "message": "Paylaşılmayan"
+   },
+   "notifications": {
+      "message": "Bildirimler"
+   },
+   "notificationsDescription": {
+      "message": "Zamanın dolmadan önce veya Nükleer Seçenek devreye girmeden önce uyarı almak istediğiniz beş zamanı ayarlayın (her ikisi de aynı ayarları kullanır). Bildirimleri devre dışı bırakmak için tüm alanları boş bırakın."
+   },
+   "nuclear": {
+      "message": "Nükleer Seçenek"
+   },
+   "nuclearDescription": {
+      "message": "Bu seçeneği etkinleştirmek, belirttiğiniz saat sayısı boyunca belirttiğiniz günlerde siteleri engeller ve Aktif Saatlerinizden bağımsız olarak çalışır. Bir kez etkinleştirdikten sonra bunu iptal etmenin bir yolu yoktur."
+   },
+   "nuclearDescriptionWarning": {
+      "message": "\"Tüm web siteleri\", web tabanlı e-posta, Google, online bankacılık, yerel dosyalar (file:// urls) ve belki de ihtiyacınız olduğunu fark etmediğiniz diğer siteleri içerir."
+   },
+   "nuclearIsActiveUntil": {
+      "message": "Nükleer Seçenek $1'e kadar aktif"
+   },
+   "nuclearMode": {
+      "message": "Nükleer Mod"
+   },
+   "nuclearOptionWillBeStart": {
+      "message": "Nükleer seçenek başlatılacak"
+   },
+   "nuclear_atTime": {
+      "message": "saat"
+   },
+   "nuclear_blockedContent_SmartBomb": {
+      "message": "Sadece belirli içerik türleri (SmartBomb)"
+   },
+   "nuclear_blockedContent_WholeSite": {
+      "message": "Tüm site"
+   },
+   "nuclear_blockedType_All": {
+      "message": "TÜM web siteleri"
+   },
+   "nuclear_blockedType_AllExceptAllowed": {
+      "message": "İzin Verilen Siteler listemde olmayan siteler HARİÇ"
+   },
+   "nuclear_blockedType_BlockedSites": {
+      "message": "Sadece Engellenen Siteler listemdeki web siteleri"
+   },
+   "nuclear_commencingNuclearOption": {
+      "message": "Nükleer Seçenek başlatılıyor. Tanrı ruhuna rahmet eylesin."
+   },
+   "nuclear_for": {
+      "message": "için"
+   },
+   "nuclear_hourOrMore": {
+      "message": "saat"
+   },
+   "nuclear_howLong": {
+      "message": "Ne kadar süre için?"
+   },
+   "nuclear_maxTimeHasBeenExceeded": {
+      "message": "Bugün için izin verilen maksimum süre aşıldığı için"
+   },
+   "nuclear_minOrMore": {
+      "message": "dakika"
+   },
+   "nuclear_nuclearOptionImmediately": {
+      "message": "Nükleer Seçenek derhal devreye girecek."
+   },
+   "nuclear_onActiveDays": {
+      "message": "Aktif Günler sekmesinde seçtiğiniz günlerde"
+   },
+   "nuclear_onMonday": {
+      "message": "pazartesi günü"
+   },
+   "nuclear_selectedTimeHasPassed": {
+      "message": "Seçtiğiniz zamanı geçtiği için"
+   },
+   "nuclear_smartBombMultimedia_Forms": {
+      "message": "Formlar"
+   },
+   "nuclear_smartBombMultimedia_Forms_description": {
+      "message": "(Forumlar, blog yorumları, Facebook mesajları, vb.)"
+   },
+   "nuclear_smartBombMultimedia_Images": {
+      "message": "Resimler"
+   },
+   "nuclear_smartBombMultimedia_Logins": {
+      "message": "Girişler"
+   },
+   "nuclear_smartBombMultimedia_Logins_description": {
+      "message": "(Giriş gerektiren sitelere giriş yapmanızı engeller)"
+   },
+   "nuclear_smartBombMultimedia_Multimedia": {
+      "message": "Multimedya"
+   },
+   "nuclear_smartBombMultimedia_Multimedia_description": {
+      "message": "(Flash oyunlar, video oynatıcılar, müzik çalarlar, vb.)"
+   },
+   "nuclear_startTime_MaxTimeAllowedExceeded": {
+      "message": "Maksimum İzin Verilen Süre aşıldığında"
+   },
+   "nuclear_startTime_Now": {
+      "message": "Hemen şimdi"
+   },
+   "nuclear_startTime_SpecificTime": {
+      "message": "Belirli bir zamanda"
+   },
+   "nuclear_startingTime": {
+      "message": "başlangıç"
+   },
+   "nuclear_startingWhen": {
+      "message": "Ne zaman başlayacak?"
+   },
+   "nuclear_stayFocusdWillBlock": {
+      "message": "StayFocusd engellenecek"
+   },
+   "nuclear_today": {
+      "message": "bugün"
+   },
+   "nuclear_whatBlock": {
+      "message": "Ne engellemek istersiniz?"
+   },
+   "nuclear_whichSites": {
+      "message": "Hangi siteleri engellemek istersiniz?"
+   },
+   "nuke": {
+      "message": "HEPSİNİ YOK ET!"
+   },
+   "numberOfKeysDoesNotMatch": {
+      "message": "Vay be. Bastığınız tuş sayısı metin kutusundaki karakter sayısıyla eşleşmiyor.\n\nKopyala-yapıştır hilesi mi, belki? Oldukça sinsi, kardeşim.\n\nTekrar başlamak zorundasınız."
+   },
+   "onboardingConfirmMessage": {
+      "message": "Gizlilik Politikasını kabul etmezseniz, bazı yaklaşan özellikler kullanılamayacak."
+   },
+   "onboardingConfirmTitle": {
+      "message": "StayFocusd'den en iyi şekilde faydalanın"
+   },
+   "onboardingNewUserMessage": {
+      "message": "Üretken kalmanın en iyi yolu StayFocusd. Başlamak için Hizmet Şartlarımızı kabul edin."
+   },
+   "onboardingNewUserTitle": {
+      "message": "StayFocusd'a Hoş Geldiniz!"
+   },
+   "onlyHurtingYourself": {
+      "message": "Cidden, dostum. Bu uzantının amacı ertelemeyi durdurmanızdır.\n\nSadece kendinize zarar veriyorsunuz.\n\nVe Her Tamam'a tıkladığınızda elektrik şoku alan yavru kedi.\n\nKendinizle yaşayabileceğinizden emin misiniz?"
+   },
+   "openSettings": {
+      "message": "Ayarları aç"
+   },
+   "optOutOfDataCollection": {
+      "message": "Veri toplamayı devre dışı bırak"
+   },
+   "others": {
+      "message": "Diğerleri"
+   },
+   "overwrite": {
+      "message": "üzerine yaz"
+   },
+   "pairStep1": {
+      "message": "$stayfreeWebsite$ adresini ziyaret edin ve StayFree uygulamasını cep telefonunuza veya bilgisayarınıza indirin.",
+      "placeholders": {
+         "stayfreeWebsite": {
+            "content": "\u003Ca class=\"link-primary no-underline\" target=\"_blank\" href=\"https://stayfreeapps.com?download&utm_source=stayfocusd_pairing\">stayfreeapps.com\u003C/a>"
+         }
+      }
+   },
+   "pairStep2": {
+      "message": "Yeni yüklenen StayFree uygulamasını açın."
+   },
+   "pairStep3": {
+      "message": "\"Ayarlar\" a gidin ve \"Yeni Cihaz Eşleştir\"e tıklayın."
+   },
+   "pairStep4": {
+      "message": "\"Kodu Manuel Gir\"i seçin."
+   },
+   "pairStep5": {
+      "message": "Altındaki kutudan 6 haneli eşleştirme kodunuzu kopyalayın ve giriş alanına yapıştırın."
+   },
+   "pairingPromo_sharedUsageLimit": {
+      "message": "Çapraz cihaz paylaşılan kullanım sınırlarını belirleyin."
+   },
+   "pairingPromo_trackAcrossAllDevices": {
+      "message": "Tüm cihazlarda ekran sürenizi takip edin."
+   },
+   "pairing_deviceCode": {
+      "message": "Cihaz eşleştirme kodunuz"
+   },
+   "pairing_pairNewDevice": {
+      "message": "Yeni Cihaz Eşleştir"
+   },
+   "pairing_success": {
+      "message": "Bağlandınız! Artık eşleştirdiğiniz tüm cihazların kullanımını görebilirsiniz"
+   },
+   "paused": {
+      "message": "Duraklatıldı"
+   },
+   "popup": {
+      "message": "Açılır Pencere"
+   },
+   "popup_advancedBlockingOptions": {
+      "message": "Gelişmiş Engelleme Seçenekleri"
+   },
+   "popup_allowCustomUrl": {
+      "message": "Özel URL'yi İzin Ver"
+   },
+   "popup_allowEntireSite": {
+      "message": "Tüm siteye izin ver"
+   },
+   "popup_allowUrl": {
+      "message": "Bu URL'yi izin ver"
+   },
+   "popup_blockCustomUrl": {
+      "message": "Özel URL'yı Engelle"
+   },
+   "popup_blockEntireSite": {
+      "message": "Tüm sitesini engelle"
+   },
+   "popup_blockUrl": {
+      "message": "Bu URL'yi engelle"
+   },
+   "popup_enterCustomUrl": {
+      "message": "Ya da özel bir URL girin:"
+   },
+   "privacyPolicy": {
+      "message": "Gizlilik Politikası"
+   },
+   "privatePolicyProps1": {
+      "message": "Kim olduğunuzu bilmek istemiyoruz"
+   },
+   "privatePolicyProps2": {
+      "message": "Topladığımız tüm bilgileri kimliksiz hale getiriyoruz"
+   },
+   "privatePolicyProps3": {
+      "message": "Topladığımız bilgileri asla üçüncü taraflara satmıyoruz"
+   },
+   "privatePolicyProps4": {
+      "message": "Bilerek kaçınıyor ve asla hassas verilerle ilgilenmiyoruz"
+   },
+   "privatePolicyProps5": {
+      "message": "StayFocusd ve Sensor Tower ürün ve hizmetlerini geliştirmek için anonimleştirilmiş bilgiler kullanıyoruz"
+   },
+   "privatePolicyTitle": {
+      "message": "Lütfen aklınızda bulundurun:"
+   },
+   "problemImportingSettings": {
+      "message": "Ayarlarını içe aktarırken bir sorun oluştu."
+   },
+   "reTypeTextBelow": {
+      "message": "Aşağıdaki metni tekrar yazın"
+   },
+   "redirectMessage": {
+      "message": "Yönlendirme mesajı"
+   },
+   "redirectMessageDescription": {
+      "message": "StayFocusd bir siteyi engellediğinde, stayfocusd.com'a \"Çalışmıyor olman gerekmiyor mu?\" mesajıyla yönlendirir. Bu mesajı kendi özel mesajınızla değiştirebilirsiniz."
+   },
+   "redirectMessagePlaceholder": {
+      "message": "Özel bir mesaj girin..."
+   },
+   "remaining": {
+      "message": "kalan"
+   },
+   "removeDeviceConfirmationMessage": {
+      "message": "Bu cihazı kaldırmak, herhangi bir kullanım verisini silmeyecek, sadece bu cihazın kullanımını diğer cihazlardan göremeyeceksiniz."
+   },
+   "removeSitesAtAnyTime": {
+      "message": "İzin Verilen Siteler listesinden istediğiniz zaman siteleri kaldırabilirsiniz, süreniz dolmuş olsa bile."
+   },
+   "removeSitesDescription1": {
+      "message": "Bir siteyi listeden kaldırmak için"
+   },
+   "removeSitesDescription2": {
+      "message": "tıklayın."
+   },
+   "requireChallenge": {
+      "message": "Zorunlu Meydan Okuma"
+   },
+   "requireChallengeDescription": {
+      "message": "Bu seçenek seçildiğinde, herhangi bir ayarı değiştirmeden önce zorlu - ancak imkansız olmayan - bir meydan okumayı tamamlamanız gerekecektir. Bu, ayarları değiştirmenizi zorlaştırarak, hile yapma olasılığını azaltır."
+   },
+   "requireChallengeTextHasBeenSet": {
+      "message": "Meydan okuma metniniz ayarlandı."
+   },
+   "required": {
+      "message": "Eylem Gerekli"
+   },
+   "resetToDefault": {
+      "message": "Varsayılana sıfırla"
+   },
+   "reviewExtensionAsk": {
+      "message": "Eklentiden keyif alıyor musunuz?"
+   },
+   "reviewExtensionPrompt": {
+      "message": "StayFocusd'u Değerlendir"
+   },
+   "saturday": {
+      "message": "Cumartesi"
+   },
+   "saveChanges": {
+      "message": "DEĞİŞİKLİKLERİ KAYDET"
+   },
+   "saveGroup": {
+      "message": "Grubu kaydet"
+   },
+   "saveMessage": {
+      "message": "Mesajı kaydet"
+   },
+   "saveNotifications": {
+      "message": "Bildirimleri Kaydet"
+   },
+   "scheduleCall": {
+      "message": "Bir toplantı planlayın"
+   },
+   "search": {
+      "message": "Ara"
+   },
+   "seconds": {
+      "message": "saniye"
+   },
+   "selectAll": {
+      "message": "Tümünü Seç"
+   },
+   "selectDateRange": {
+      "message": "Tarih Aralığı Seç"
+   },
+   "sessionCount": {
+      "message": "$1 oturum(lar)"
+   },
+   "sessions": {
+      "message": "Oturumlar"
+   },
+   "set": {
+      "message": "Ayarla"
+   },
+   "setCustomText": {
+      "message": "Özel metni ayarla"
+   },
+   "setUpCall": {
+      "message": "Veya, bizimle sohbet etmek için bir arama ayarlayın."
+   },
+   "settingICanBeMoreProductive": {
+      "message": "ayarlarımı daha verimli olabilmek için değiştirebilirim"
+   },
+   "settings": {
+      "message": "Ayarlar"
+   },
+   "settingsUpdated": {
+      "message": "Ayarlarınız güncellendi."
+   },
+   "share": {
+      "message": "Paylaş"
+   },
+   "shareLimitAcrossDevices": {
+      "message": "Eşleştirilmiş cihazlar arasında sınırı paylaş"
+   },
+   "shareLimitAcrossDevicesDescription": {
+      "message": "Bu sınır, tüm eşleştirilmiş cihazlardaki kullanımı dikkate alır."
+   },
+   "shared": {
+      "message": "Paylaşılan"
+   },
+   "showAdCount": {
+      "message": "Reklam sayısını göster"
+   },
+   "showAdCountDescription": {
+      "message": "Engellenen bu web sitelerinden gelen dikkat dağıtıcıların sayısı"
+   },
+   "showLabel": {
+      "message": "Göster:"
+   },
+   "spentTimeOnBlockedSites": {
+      "message": "Engellenen sitelerde geçirdiğiniz zaman:"
+   },
+   "start": {
+      "message": "Başlat"
+   },
+   "stayFreePairing": {
+      "message": "StayFree ile eşleştir"
+   },
+   "stayFreePairingDescription": {
+      "message": "StayFocusd artık $stayfree$'nin bir parçası!",
+      "placeholders": {
+         "stayfree": {
+            "content": "\u003Cb>StayFree Ailesi\u003C/b>"
+         }
+      }
+   },
+   "stayFreePairingFeatures": {
+      "message": "StayFocusd'i mobil veya masaüstünde StayFree ile eşleştirerek $features$.",
+      "placeholders": {
+         "features": {
+            "content": "\u003Cb>ekran sürenizi senkronize edin, cihazlar arası kullanım sınırları belirleyin ve dijital alışkanlıklarınızı tek bir yerden takip edin\u003C/b>"
+         }
+      }
+   },
+   "stayfreePairingPromoDescription": {
+      "message": "Mobil telefonunuz veya bilgisayarınıza $stayfreeWebsite$ adresinden StayFree uygulamalarını yükleyin ve StayFocusd ile cihazlar arası kullanım sınırları belirleyin ve ekran sürenizi tek bir panoda izleyin!",
+      "placeholders": {
+         "stayfreeWebsite": {
+            "content": "\u003Ca class=\"link link-primary\" target=\"_blank\" href=\"https://stayfreeapps.com?download&utm_source=stayfocusd_dialog\">StayFree Websitesi\u003C/a>"
+         }
+      }
+   },
+   "stayfreePairingPromoLearnMore": {
+      "message": "Daha fazla bilgi edinin"
+   },
+   "stayfreePairingPromoTitle": {
+      "message": "StayFocusd artık StayFree uygulamalarıyla eşleşiyor!"
+   },
+   "submit": {
+      "message": "Gönder"
+   },
+   "success": {
+      "message": "Başarılı"
+   },
+   "sunday": {
+      "message": "Pazar"
+   },
+   "supportId": {
+      "message": "Destek Kimliği"
+   },
+   "syncNow": {
+      "message": "Şimdi senkronize et"
+   },
+   "syncOption": {
+      "message": "Eşitle"
+   },
+   "syncOptionDescription": {
+      "message": "StayFocusd varsayılan olarak Engellenen Sitelerinizi ve İzin Verilen Sitelerinizi tüm cihazlarınız arasında Chrome Eşitleme aracılığıyla senkronize eder. Bu özelliği kapatmak için aşağıdaki kutuyu işaretleyin."
+   },
+   "tellingYourMom": {
+      "message": "Annenize söyleyeceğim."
+   },
+   "testMode": {
+      "message": "Test Modu"
+   },
+   "theme": {
+      "message": "Tema"
+   },
+   "theme_auto": {
+      "message": "Takip Et Tarayıcı"
+   },
+   "theme_dark": {
+      "message": "Koyu"
+   },
+   "theme_light": {
+      "message": "Açık"
+   },
+   "thisDevice": {
+      "message": "Bu cihaz"
+   },
+   "thursday": {
+      "message": "Perşembe"
+   },
+   "time": {
+      "message": "Saat"
+   },
+   "timeExpiredCannotChangeUntilTomorrow": {
+      "message": "Bugün için süreniz doldu. Bu ayarları yarına kadar değiştiremezsiniz."
+   },
+   "timeExpiredForGroup": {
+      "message": "$groupName$’ın günlük zaman sınırı doldu. Bu gruba herhangi bir değişiklik yapamazsınız, ancak istediğiniz zaman yeni engellenmiş siteler ekleyebilirsiniz.",
+      "placeholders": {
+         "groupName": {
+            "content": "$1"
+         }
+      }
+   },
+   "timeLeft": {
+      "message": "Kalan Süre"
+   },
+   "timeRemaining": {
+      "message": "Kalan Süre"
+   },
+   "today": {
+      "message": "Bugün"
+   },
+   "todayOnly": {
+      "message": "Sadece bugün"
+   },
+   "tos": {
+      "message": "Hizmet Koşulları"
+   },
+   "tosHaveChanged": {
+      "message": "Hizmet Şartlarımız değişti. Kabul etmek için ayarlar sayfasını açın."
+   },
+   "totalAllowedTime": {
+      "message": "Toplam İzin Verilen Süre"
+   },
+   "trackTabsPlayingAudio": {
+      "message": "Ses/Video Oynatan Sekmeleri Takip Et"
+   },
+   "trackTabsPlayingAudioDescription": {
+      "message": "Günlük kullanımınızda arka planda ses veya video oynatan sekmeleri takip edin."
+   },
+   "tuesday": {
+      "message": "Salı"
+   },
+   "under18Message": {
+      "message": "18 yaşından küçüksen StayFocusd'u kullanabilirsin! Bazı özellikler kullanılamayabilir."
+   },
+   "unknownDeviceName": {
+      "message": "Bilinmeyen Cihaz"
+   },
+   "unlink": {
+      "message": "Bağlantıyı Kaldır"
+   },
+   "updateNoticesOption": {
+      "message": "StayFocusd güncelleme bildirimleri"
+   },
+   "updateNoticesOptionDescription": {
+      "message": "StayFocusd güncellendiğinde StayFocusd simgesinde YENİ bir rozet görüntülenir. Simgeye tıklamak, en son güncelleme hakkında bilgi içeren yeni bir pencere açar. Bu çok nadiren gerçekleşir."
+   },
+   "usageLastSynced": {
+      "message": "Son senkronize edilen kullanım:"
+   },
+   "usageTime": {
+      "message": "Kullanım Süresi"
+   },
+   "usingWildcardRule1": {
+      "message": "Bir"
+   },
+   "usingWildcardRule2": {
+      "message": "joker karakter olarak bir yıldız (*) kullanabilirsiniz"
+   },
+   "usingWildcardRule3": {
+      "message": "(örneğin *.com tüm .com sitelerini engeller, ya da *foo içinde \"foo\" kelimesi geçen tüm alanları engeller)"
+   },
+   "visitCustomize1": {
+      "message": "Ziyaret et"
+   },
+   "visitCustomize2": {
+      "message": "özelleştir"
+   },
+   "visitCustomize3": {
+      "message": "sekmesini gizleme/gösterme anahtarını görmek için."
+   },
+   "visitDuration": {
+      "message": "Ziyaret Süresi"
+   },
+   "walkthrough_activeDaysAndHours": {
+      "message": "Haftanın hangi günlerinde ve günün hangi saatlerinde StayFocusd'un engellenmiş web siteleri için zamanınızı geri saymasını istediğinizi yapılandırabilirsiniz."
+   },
+   "walkthrough_activeDaysAndHoursName": {
+      "message": "Etkin Günler ve Etkin Saatler"
+   },
+   "walkthrough_allowedSites": {
+      "message": "İzin verilen maksimum sürenize dahil edilmemesi ve zamanınız dolduktan sonra engellenmemesi için web siteleri veya URL'ler ekleyin. \u003Cbr /> \u003Cbr /> Örneğin, youtube.com'u engellenmiş bir site olarak eklerseniz, günün sonunda zamanınız dolduğunda izlemek için herhangi bir YouTube video URL'sini izin verilen site olarak ekleyebilirsiniz."
+   },
+   "walkthrough_blockedAllSites": {
+      "message": "Etkinleştirildiğinde, \"İzin Verilen Siteler\" listesinde olmayan tüm web siteleri, günlük izin verilen maksimum sürenize dahil edilecektir."
+   },
+   "walkthrough_blockedSites": {
+      "message": "Bu, daha az zaman harcamak istediğiniz web sitelerini eklediğiniz yerdir. Her web sitesi grubu için günlük izin verilen maksimum süreyi atarsınız. Günün sonunda zamanınız dolduğunda, StayFocusd o gruptaki web sitelerine erişiminizi engeller."
+   },
+   "walkthrough_nuclear": {
+      "message": "Nükleer Seçenek, zamanınızın dolmasını beklemeksizin web sitelerini hemen engelleme yeteneği verir. Web sitelerini engellemenin en aşırı yöntemidir çünkü kapatılamaz. \u003Cbr /> \u003Cbr /> Gerçekten odaklanmanız ve bir şeyler yapmanız gerektiğinde kullanın."
+   },
+   "walkthrough_nuclearSpecificTime": {
+      "message": "Gelecekte \"Nükleer Seçeneği\" otomatik olarak etkinleştirmenin yanı sıra, tekrarlayan bir zaman çizelgesinde de otomatik olarak etkinleştirebilirsiniz."
+   },
+   "walkthrough_requireChallenge": {
+      "message": "Kendi kurallarınızı ihlal etmenizi engeller. Etkinleştirildiğinde, ayarları değiştirmeden önce hatasız bir paragraf yazmanız gerekecektir. Maksimum izin verilen süreyi artırarak, engellenmiş siteleri kaldırarak veya yeni izin verilen siteler ekleyerek hile yapmanızı engeller."
+   },
+   "wantToHelpUsImproveStayFocusd": {
+      "message": "StayFocusd'yi geliştirmemize yardımcı olmak ister misiniz? Doldurun"
+   },
+   "wantToTestRequireChallenge": {
+      "message": "Bu özelliği açmadan önce meydan okumayı test etmek ister misiniz?"
+   },
+   "wednesday": {
+      "message": "Çarşamba"
+   },
+   "whitelist": {
+      "message": "İzin Verilen Siteler"
+   },
+   "whitelistAddingSiteDescription": {
+      "message": "Aşağıdaki metin kutusuna izin vermek istediğiniz site(leri) ekleyin, ardından \"İzin Verilen Site(ler) Ekle\" düğmesine tıklayın. Bazı ipuçları:"
+   },
+   "whitelistAddingSiteRule1": {
+      "message": "Birden fazla site eklemek için her birini bir satır halinde ekleyin."
+   },
+   "whitelistAddingSiteRule2": {
+      "message": "Önce bir yıldız işareti kullanarak joker karakteri olarak kullanabilirsiniz (örneğin *.com tüm .com sitelerine izin verir veya *foo, içinde \"foo\" kelimesi geçen tüm alanlara izin verir)"
+   },
+   "wildcardsPathsNotSupported": {
+      "message": "* Joker karakterleri ve web yolları için kullanım sınırlamaları Stayfree uygulamalarında desteklenmez."
+   },
+   "xAds": {
+      "message": "$1 reklam"
+   },
+   "xSessions": {
+      "message": "$1 oturum(lar)"
+   },
+   "yesterday": {
+      "message": "dün"
+   },
+   "youAreCurrentlyOn": {
+      "message": "Şu anda buradasınız:"
+   }
+}

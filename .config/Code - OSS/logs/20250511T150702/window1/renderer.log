@@ -1,0 +1,6 @@
+2025-05-11 15:07:03.394 [info] ChatSessionStore: Migrating 0 chat sessions from storage service to file system
+2025-05-11 15:07:03.414 [info] Started local extension host with pid 15981.
+2025-05-11 15:07:03.428 [info] Started initializing default profile extensions in extensions installation folder. file:///home/dust/.vscode-oss/extensions
+2025-05-11 15:07:03.467 [info] ComputeTargetPlatform: linux-x64
+2025-05-11 15:07:03.498 [info] Completed initializing default profile extensions in extensions installation folder. file:///home/dust/.vscode-oss/extensions
+2025-05-11 15:07:06.228 [info] [perf] Render performance baseline is 12ms
